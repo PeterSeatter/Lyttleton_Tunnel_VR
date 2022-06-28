@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Lyttleton_Tunnel",
+			"Path": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Lyttleton_TunnelEditor",
+			"Path": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_TunnelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
