@@ -4,7 +4,7 @@
 		{
 			"name": "Launch Lyttleton_Tunnel (Debug)",
 			"request": "launch",
-			"program": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "Lyttleton_Tunnel Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch Lyttleton_Tunnel (DebugGame)",
 			"request": "launch",
-			"program": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "Lyttleton_Tunnel Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch Lyttleton_Tunnel (Development)",
 			"request": "launch",
-			"program": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "Lyttleton_Tunnel Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch Lyttleton_Tunnel (Test)",
 			"request": "launch",
-			"program": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "Lyttleton_Tunnel Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch Lyttleton_Tunnel (Shipping)",
 			"request": "launch",
-			"program": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "Lyttleton_Tunnel Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "Lyttleton_TunnelEditor Win64 Debug Build",
 			"args": [
-				"D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject"
+				"F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "Lyttleton_TunnelEditor Win64 DebugGame Build",
 			"args": [
-				"D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject"
+				"F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "Lyttleton_TunnelEditor Win64 Development Build",
 			"args": [
-				"D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject"
+				"F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject",
+				"-project=F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Lyttleton_Tunnel.uproject",
 				"-game",
 				"-engine"
 			],

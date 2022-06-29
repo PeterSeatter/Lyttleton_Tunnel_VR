@@ -1,27 +1,27 @@
 [
 	{
-		"file": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_Tunnel.Build.cs",
-		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
+		"file": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_Tunnel.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_Tunnel.cpp",
-		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
+		"file": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_Tunnel.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_Tunnel.h",
-		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
+		"file": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_Tunnel.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_TunnelGameModeBase.cpp",
-		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
+		"file": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_TunnelGameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_TunnelGameModeBase.h",
-		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
+		"file": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\Source\\Lyttleton_Tunnel\\Lyttleton_TunnelGameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel\\Lyttleton_Tunnel.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	}
 ]

@@ -3,14 +3,14 @@
         {
             "name": "Lyttleton_TunnelEditor Editor Win64 Development (Lyttleton_Tunnel)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel.json",
+            "compileCommands": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Lyttleton_Tunnel.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Users\\Administrator.ENCI-VR1.000\\Desktop\\Peter\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }
