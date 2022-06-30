@@ -1,0 +1,1770 @@
+﻿Log file open, 06/30/22 11:25:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=7560)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lyttleton_Tunnel
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Users\Administrator.ENCI-VR1.000\Desktop\Peter\Lyttleton_Tunnel_VR\Lyttleton_Tunnel\Lyttleton_Tunnel.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1766] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 2700X Eight-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b8c9405d4653ccfe0c291e94443027a9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.299386
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F01AA91E48B0182DF69C628DE702E37D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin SteamVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Steam/SteamVR/Content/' mounted to '/SteamVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1766] (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.29-23.25.04:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.29-23.25.04:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.29-23.25.04:476][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.29-23.25.04:479][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.29-23.25.04:490][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.29-23.25.04:490][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.29-23.25.07:354][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.29-23.25.07:354][  0]LogD3D12RHI: Adapter has 8010MB of dedicated video memory, 0MB of dedicated system memory, and 16358MB of shared system memory, 1 output[s]
+[2022.06.29-23.25.07:362][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.29-23.25.07:362][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16358MB of shared system memory, 0 output[s]
+[2022.06.29-23.25.07:362][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.29-23.25.07:362][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.29-23.25.07:362][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.29-23.25.07:362][  0]LogHAL: Display: Platform has ~ 32 GB [34305531904 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.29-23.25.07:362][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.29-23.25.07:362][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.29-23.25.07:362][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.29-23.25.07:363][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.29-23.25.07:363][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.29-23.25.07:363][  0]LogInit: Computer: ENCI-LAB-VR1
+[2022.06.29-23.25.07:363][  0]LogInit: User: Administrator
+[2022.06.29-23.25.07:363][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.29-23.25.07:363][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.29-23.25.07:363][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.06.29-23.25.07:363][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.29-23.25.07:363][  0]LogMemory: Process Physical Memory: 284.10 MB used, 292.38 MB peak
+[2022.06.29-23.25.07:363][  0]LogMemory: Process Virtual Memory: 250.36 MB used, 250.36 MB peak
+[2022.06.29-23.25.07:363][  0]LogMemory: Physical Memory: 6162.54 MB used,  26553.76 MB free, 32716.30 MB total
+[2022.06.29-23.25.07:363][  0]LogMemory: Virtual Memory: 9177.90 MB used,  28402.40 MB free, 37580.30 MB total
+[2022.06.29-23.25.07:363][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.29-23.25.07:369][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.29-23.25.07:384][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.29-23.25.07:390][  0]LogInit: Using OS detected language (en-US).
+[2022.06.29-23.25.07:390][  0]LogInit: Using OS detected locale (en-NZ).
+[2022.06.29-23.25.07:397][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.06.29-23.25.07:559][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.29-23.25.07:571][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.29-23.25.07:571][  0]LogWindowsTextInputMethodSystem:   - English (New Zealand) - (Keyboard).
+[2022.06.29-23.25.07:571][  0]LogWindowsTextInputMethodSystem:   - English (New Zealand) - (Keyboard).
+[2022.06.29-23.25.07:571][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.06.29-23.25.07:572][  0]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2022.06.29-23.25.07:587][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.29-23.25.07:587][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.29-23.25.07:745][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.29-23.25.07:748][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.29-23.25.07:748][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.29-23.25.07:823][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.29-23.25.07:876][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.29-23.25.07:883][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.29-23.25.07:896][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.29-23.25.07:918][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.29-23.25.07:918][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.29-23.25.07:944][  0]LogD3D12RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.29-23.25.07:944][  0]LogWindows: Attached monitors:
+[2022.06.29-23.25.07:944][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.29-23.25.07:944][  0]LogWindows: Found 1 attached monitors.
+[2022.06.29-23.25.07:944][  0]LogWindows: EnumDisplayDevices:
+[2022.06.29-23.25.07:944][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.29-23.25.07:945][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.29-23.25.07:945][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.29-23.25.07:945][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.29-23.25.07:945][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.29-23.25.07:945][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2022.06.29-23.25.07:945][  0]LogD3D12RHI:   Driver Version: 516.40 (internal:31.0.15.1640, unified:516.40)
+[2022.06.29-23.25.07:945][  0]LogD3D12RHI:      Driver Date: 6-6-2022
+[2022.06.29-23.25.07:945][  0]LogRHI: Texture pool is 4562 MB (70% of 6517 MB)
+[2022.06.29-23.25.07:945][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.29-23.25.07:945][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.29-23.25.07:956][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.29-23.25.07:961][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyReport_0.log" -log="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyLog_0.log" -project="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject"  -platform=all'
+[2022.06.29-23.25.07:961][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyReport_0.log" -log="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyLog_0.log" -project="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject"  -platform=all" ]
+[2022.06.29-23.25.07:986][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.29-23.25.07:995][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.29-23.25.07:995][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.29-23.25.08:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.29-23.25.08:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.29-23.25.08:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.29-23.25.08:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.29-23.25.08:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.29-23.25.08:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.29-23.25.08:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.29-23.25.08:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.29-23.25.08:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.29-23.25.08:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.29-23.25.08:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.29-23.25.08:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.29-23.25.08:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.29-23.25.08:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.29-23.25.08:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.29-23.25.08:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.29-23.25.08:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.29-23.25.08:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.29-23.25.08:047][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.29-23.25.08:056][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.29-23.25.08:059][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.29-23.25.08:059][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.29-23.25.08:059][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.29-23.25.08:059][  0]LogTargetPlatformManager:   PCM
+[2022.06.29-23.25.08:062][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.29-23.25.08:062][  0]LogTargetPlatformManager:   BINKA
+[2022.06.29-23.25.08:062][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.29-23.25.08:062][  0]LogTargetPlatformManager:   OGG
+[2022.06.29-23.25.08:062][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.29-23.25.08:062][  0]LogTargetPlatformManager:   OPUS
+[2022.06.29-23.25.08:099][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.29-23.25.08:105][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.29-23.25.08:108][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.29-23.25.08:109][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.29-23.25.08:109][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.29-23.25.08:109][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.29-23.25.08:109][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.29-23.25.08:109][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.29-23.25.08:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.29-23.25.08:112][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.29-23.25.08:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.29-23.25.08:112][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.29-23.25.08:131][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.29-23.25.08:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.29-23.25.08:131][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.29-23.25.08:144][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.29-23.25.08:144][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=270.02MBs, RandomWriteSpeed=109.57MBs. Assigned SpeedClass 'Local'
+[2022.06.29-23.25.08:145][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.29-23.25.08:145][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.29-23.25.08:145][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.29-23.25.08:153][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.29-23.25.08:153][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.29-23.25.08:154][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/Shaders/WorkingDirectory/16376/).
+[2022.06.29-23.25.08:154][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/0234023742859A62563219B3743AD974/'.
+[2022.06.29-23.25.08:154][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.29-23.25.08:154][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.29-23.25.09:463][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.29-23.25.09:463][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.29-23.25.09:463][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.29-23.25.09:501][  0]LogAssetRegistry: FAssetRegistry took 0.0156 seconds to start up
+[2022.06.29-23.25.09:507][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.29-23.25.09:697][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.29-23.25.09:697][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.29-23.25.10:045][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.29-23.25.10:045][  0]LogDeviceProfileManager: Active device profile: [00000870A5610540][0000087099EF0000 50] WindowsEditor
+[2022.06.29-23.25.10:045][  0]LogDeviceProfileManager: Profiles: [00000870A5610000][0000087099EF7800 50] Windows, [00000870A5610540][0000087099EF0000 50] WindowsEditor, [00000870A5612680][0000087099E6C800 50] WindowsServer, [00000870A56124C0][0000087083F25000 50] WindowsClient, [00000870A5612D80][0000087099CA5000 50] IOS, [00000870A5611500][00000870A55D0000 50] iPadAir2, [00000870A5615CC0][00000870A55D7800 50] IPadPro, [00000870A5616040][00000870A55D5000 50] iPadAir3, [00000870A5616200][00000870A55DA000 50] iPadAir4, [00000870A5615080][00000870A55DC800 50] iPadMini4, [00000870A5611880][0000087099EF2800 50] iPadMini5, [00000870A5614EC0][00000870A5600000 50] iPadMini6, [00000870A5618A40][00000870A560A000 50] iPhone6S, [00000870A5618880][00000870A5607800 50] iPhone7, [00000870A5618500][00000870A5605000 50] iPodTouch7, [00000870A5613D40][00000870A560C800 50] iPhone6SPlus, [00000870A5614600][00000870A55D2800 50] iPhone7Plus, [00000870A5616580][00000870A55E0000 50] iPhoneSE, [00000870A5613B80][00000870A55E5000 50] iPhone8, [00000870A5610E00][00000870A55E7800 50] iPhone8Plus, [00000870A5613480][00000870A55EA000 50] iPhoneX, [00000870A5610C40][00000870A55EC800 50] iPhoneXS, [00000870A56108C0][00000870A5602800 50] iPhoneXSMax, [00000870A5611F80][00000870A55C0000 50] iPhoneXR, [00000870A5612140][00000870A55C5000 50] iPhone11, [00000870A5614D00][00000870A55C7800 50] iPhone11Pro, [00000870A5618C00][00000870A55CA000 50] iPhone11ProMax, [00000870A56186C0][00000870A55CC800 50] iPhoneSE2, [00000870A5612BC0][00000870A55E2800 50] iPhone12Mini, [00000870A5612F40][00000870A5620000 50] iPhone12, [00000870A5616900][00000870A5625000 50] iPhone12Pro, [00000870A5610700][00000870A5627800 50] iPhone12ProMax, [00000870A5618180][00000870A562A000 50] iPhone13Mini, [00000870A56132C0][00000870A562C800 50] iPhone13, [00000870A5617C40][00000870A55C2800 50] iPhone13Pro, [00000870A5615400][00000870A5630000 50] iPhone13ProMax, [00000870A5611DC0][00000870A5635000 50] iPadPro105, [00000870A5613F00][00000870A5637800 50] iPadPro129, [00000870A5616E40][00000870A563A000 50] iPadPro97, [00000870A5615E80][00000870A563C800 50] iPadPro2_129, [00000870A5617A80][00000870A5622800 50] iPad5, [00000870A5611C00][00000870A5640000 50] iPad6, [00000870A5610FC0][00000870A5645000 50] iPad7, [00000870A5613100][00000870A5647800 50] iPad8, [00000870A5618340][00000870A564A000 50] iPad9, [00000870A5616C80][00000870A564C800 50] iPadPro11, [00000870A5616740][00000870A5632800 50] iPadPro2_11, [00000870A5617000][00000870A5650000 50] iPadPro3_11, [00000870A5611340][00000870A5655000 50] iPadPro3_129, [00000870A5610A80][00000870A5657800 50] iPadPro4_129, [00000870A5614B40][00000870A565A000 50] iPadPro5_129, [00000870A5617380][00000870A565C800 50] AppleTV, [00000870A56116C0][00000870A5642800 50] AppleTV4K, [00000870A5614280][00000870A5670000 50] TVOS, [00000870A561A2C0][00000870A5677800 50] Mac, [00000870A561A640][00000870A5675000 50] MacEditor, [00000870A5612A00][00000870A567A000 50] MacClient, [00000870A5612300][00000870A567C800 50] MacServer, [00000870A561A9C0][00000870A56A0000 50] Linux, [00000870A5611A40][00000870A56A2800 50] LinuxEditor, [00000870A5615940][00000870A56A7800 50] LinuxArm64Editor, [00000870A5619680][00000870A56AA000 50] LinuxArm64, [00000870A56140C0][00000870A56AC800 50] LinuxClient, [00000870A5618DC0][00000870A5652800 50] LinuxArm64Client, [00000870A56163C0][00000870A56A5000 50] LinuxServer, [00000870A5614440][00000870A5680000 50] LinuxArm64Server, [00000870A56194C0][00000870A5685000 50] Android, [00000870A561A100][00000870A5687800 50] Android_Preview_OpenGL, [00000870A561A480][00000870A568A000 50] Android_Preview_Vulkan, [00000870A5619300][00000870A568C800 50] Android_Low, [00000870A5619A00][00000870A5672800 50] Android_Mid, [00000870A5612840][00000870A5690000 50] Android_High, [00000870A56139C0][00000870A5695000 50] Android_Default, [00000870A5615780][00000870A5697800 50] Android_Adreno4xx, [00000870A5619840][00000870A569A000 50] Android_Adreno5xx_Low, [00000870A5615B00][00000870A569C800 50] Android_Adreno5xx, [00000870A5613640][00000870A5682800 50] Android_Adreno6xx, [00000870A561AF00][00000870A56B0000 50] Android_Adreno6xx_Vulkan, [00000870A561A800][00000870A56B5000 50] Android_Adreno7xx, [00000870A5619BC0][00000870A56B7800 50] Android_Adreno7xx_Vulkan, [00000870A561AB80][00000870A56BA000 50] Android_Mali_T6xx, [00000870A56147C0][00000870A56BC800 50] Android_Mali_T7xx, [00000870A5617700][00000870A5692800 50] Android_Mali_T8xx, [00000870A5617E00][00000870A56C0000 50] Android_Mali_G71, [00000870A5619F40][00000870A56C5000 50] Android_Mali_G72, [00000870A561BB40][00000870A56C7800 50] Android_Mali_G72_Vulkan, [00000870A5615240][00000870A56CA000 50] Android_Mali_G76, [00000870A5611180][00000870A56CC800 50] Android_Mali_G76_Vulkan, [00000870A561B280][00000870A56B2800 50] Android_Mali_G77, [00000870A561C080][00000870A56D0000 50] Android_Mali_G77_Vulkan, [00000870A561B980][00000870A56D5000 50] Android_Mali_G78, [00000870A561BEC0][00000870A56D7800 50] Android_Mali_G78_Vulkan, [00000870A56171C0][00000870A56DA000 50] Android_Mali_G710, [00000870A561C780][00000870A56DC800 50] Android_Mali_G710_Vulkan, [00000870A5610380][00000870A56C2800 50] Android_Xclipse_920, [00000870A56155C0][00000870A56E0000 50] Android_Xclipse_920_Vulkan, [00000870A561AD40][00000870A56E5000 50] Android_Vulkan_SM5, [00000870A5613800][00000870A56E7800 50] Android_PowerVR_G6xxx, [00000870A561D580][00000870A56EA000 50] Android_PowerVR_GT7xxx, [00000870A561C5C0][00000870A56EC800 50] Android_PowerVR_GE8xxx, [00000870A561D040][00000870A56D2800 50] Android_PowerVR_GM9xxx, [00000870A5614980][00000870A56F0000 50] Android_PowerVR_GM9xxx_Vulkan, [00000870A561CB00][00000870A56F5000 50] Android_TegraK1, [00000870A5617FC0][00000870A56F7800 50] Android_Unknown_Vulkan, [00000870A561C400][00000870A56FA000 50] Oculus_Quest, [00000870A561E1C0][00000870A56FC800 50] Oculus_Quest2, [00000870A5618F80][00000870A56E2800 50] HoloLens, 
+[2022.06.29-23.25.10:045][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.29-23.25.10:048][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.06.29-23.25.10:071][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.29-23.25.10:243][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.29-23.25.10:243][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.29-23.25.10:243][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.29-23.25.10:243][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.29-23.25.10:243][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.29-23.25.10:258][  0]LogNetVersion: Lyttleton_Tunnel 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1267122416)
+[2022.06.29-23.25.10:390][  0]LogSlate: Border
+[2022.06.29-23.25.10:390][  0]LogSlate: BreadcrumbButton
+[2022.06.29-23.25.10:390][  0]LogSlate: Default
+[2022.06.29-23.25.10:390][  0]LogSlate: Icons.Save
+[2022.06.29-23.25.10:390][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.29-23.25.10:390][  0]LogSlate: ListView
+[2022.06.29-23.25.10:390][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.29-23.25.10:390][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.29-23.25.10:390][  0]LogSlate: TableView.DarkRow
+[2022.06.29-23.25.10:390][  0]LogSlate: TableView.Row
+[2022.06.29-23.25.10:390][  0]LogSlate: TreeView
+[2022.06.29-23.25.10:558][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.10:588][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.10:588][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.10:706][  0]LogUObjectArray: 20660 objects as part of root set at end of initial load.
+[2022.06.29-23.25.10:706][  0]LogUObjectAllocator: 5612240 out of 0 bytes used by permanent object pool.
+[2022.06.29-23.25.10:706][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.29-23.25.11:061][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A9A51A8941795AAAED648E961982EA84 | Instance: 3E44C1604333AF9C77F263A05F99D397 (ENCI-LAB-VR1-16376).
+[2022.06.29-23.25.11:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.29-23.25.11:116][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.29-23.25.11:136][  0]LogPython: Using Python 3.9.7
+[2022.06.29-23.25.12:336][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.12:379][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.12:386][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.12:414][  0]LogUProjectInfo: Found projects:
+[2022.06.29-23.25.12:457][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.29-23.25.12:471][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.29-23.25.12:496][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.29-23.25.12:496][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.29-23.25.12:642][  0]LogCollectionManager: Loaded 0 collections in 0.002907 seconds
+[2022.06.29-23.25.12:730][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Collections/' took 0.00s
+[2022.06.29-23.25.12:730][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Developers/Administrator/Collections/' took 0.00s
+[2022.06.29-23.25.12:730][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Collections/' took 0.00s
+[2022.06.29-23.25.13:007][  0]LogEngine: Initializing Engine...
+[2022.06.29-23.25.13:016][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-8609FF13
+[2022.06.29-23.25.13:017][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.29-23.25.13:019][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.29-23.25.13:279][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.29-23.25.13:279][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.29-23.25.13:288][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.29-23.25.13:310][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.29-23.25.13:311][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.29-23.25.13:328][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.29-23.25.13:328][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.29-23.25.13:328][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.29-23.25.13:329][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.29-23.25.13:329][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.29-23.25.13:329][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-23.25.13:329][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-23.25.13:329][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-23.25.13:329][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-23.25.13:329][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-23.25.13:337][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.29-23.25.13:381][  0]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.29-23.25.13:381][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-23.25.13:383][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-23.25.13:383][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-23.25.13:384][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.29-23.25.13:384][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.29-23.25.13:385][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.29-23.25.13:385][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.29-23.25.13:385][  0]LogInit: FAudioDevice initialized.
+[2022.06.29-23.25.13:385][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.29-23.25.13:386][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.29-23.25.13:386][  0]LogInit: Texture streaming: Enabled
+[2022.06.29-23.25.13:414][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.29-23.25.13:421][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.29-23.25.13:442][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.29-23.25.13:449][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.29-23.25.13:449][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: Lyttleton_TunnelEditor Win64 Development
+[2022.06.29-23.25.14:240][  0]LogLiveCoding: Display: First instance in process group "UE_Lyttleton_Tunnel_0xab4472e9", spawning console
+[2022.06.29-23.25.14:240][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.29-23.25.14:240][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.29-23.25.14:294][  0]LogInit: Transaction tracking system initialized
+[2022.06.29-23.25.14:356][  0]BlueprintLog: New page: Editor Load
+[2022.06.29-23.25.14:515][  0]LocalizationService: Localization service is disabled
+[2022.06.29-23.25.14:558][  0]TimingProfiler: Initialize
+[2022.06.29-23.25.14:558][  0]TimingProfiler: OnSessionChanged
+[2022.06.29-23.25.14:558][  0]LoadingProfiler: Initialize
+[2022.06.29-23.25.14:558][  0]LoadingProfiler: OnSessionChanged
+[2022.06.29-23.25.14:558][  0]NetworkingProfiler: Initialize
+[2022.06.29-23.25.14:558][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.29-23.25.14:558][  0]MemoryProfiler: Initialize
+[2022.06.29-23.25.14:558][  0]MemoryProfiler: OnSessionChanged
+[2022.06.29-23.25.15:153][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/' took 0.00s
+[2022.06.29-23.25.15:153][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.29-23.25.15:310][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.29-23.25.15:312][  0]SourceControl: Source control is disabled
+[2022.06.29-23.25.15:312][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.995
+[2022.06.29-23.25.15:312][  0]Cmd: MAP LOAD FILE="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.29-23.25.15:313][  0]LightingResults: New page: Lighting Build
+[2022.06.29-23.25.15:318][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-23.25.15:318][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-23.25.15:318][  0]MapCheck: New page: Map Check
+[2022.06.29-23.25.15:318][  0]LightingResults: New page: Lighting Build
+[2022.06.29-23.25.15:324][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.29-23.25.15:326][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.29-23.25.15:346][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.29-23.25.15:347][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.29-23.25.15:347][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.29-23.25.15:347][  0]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.29-23.25.15:350][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.29-23.25.15:357][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.29-23.25.15:357][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.29-23.25.15:358][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2022.06.29-23.25.15:358][  0]LogFileHelpers: Loading map 'Lyttleton_Tunnel_Level' took 0.045
+[2022.06.29-23.25.15:369][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.052
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: ================================================
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.29-23.25.15:369][  0]LogShaderCompilers: Display: ================================================
+[2022.06.29-23.25.15:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-23.25.15:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-23.25.15:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-23.25.15:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-23.25.15:594][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:594][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:595][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:595][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:595][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:595][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:596][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:596][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:597][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:597][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:597][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:597][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:598][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:598][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:598][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:598][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:599][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:599][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:600][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.29-23.25.15:600][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.29-23.25.15:727][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.29-23.25.15:729][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.29-23.25.15:732][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.29-23.25.15:733][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.29-23.25.15:760][  0]LogViewport: Scene viewport resized to 1217x877, mode Windowed.
+[2022.06.29-23.25.15:930][  0]LogStall: Startup...
+[2022.06.29-23.25.15:931][  0]LogStall: Startup complete.
+[2022.06.29-23.25.15:940][  0]LogLoad: (Engine Initialization) Total time: 12.62 seconds
+[2022.06.29-23.25.15:940][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.29-23.25.15:950][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2022.06.29-23.25.15:950][  0]LogSteamVRInputDevice: Display: Action Manifest Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.29-23.25.15:950][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.29-23.25.15:950][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.29-23.25.15:956][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [16376][application.generated.ue.lyttleton_tunnel-20280985.unrealeditor.exe] identified to SteamVR: VRApplicationError_None
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.06.29-23.25.15:958][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.06.29-23.25.15:959][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.06.29-23.25.15:960][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:961][  0]LogSteamVRInputDevice: Display: Action Manifest Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.29-23.25.15:961][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.29-23.25.15:961][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.29-23.25.15:967][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.06.29-23.25.15:967][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [16376][application.generated.ue.lyttleton_tunnel-20280985.unrealeditor.exe] identified to SteamVR: VRApplicationError_None
+[2022.06.29-23.25.15:967][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.06.29-23.25.15:968][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.06.29-23.25.15:969][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.29-23.25.16:039][  0]LogAssetRegistry: Asset discovery search completed in 6.5399 seconds
+[2022.06.29-23.25.16:049][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.29-23.25.16:075][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.29-23.26.41:247][498]Cmd: EDIT COPY
+[2022.06.29-23.26.43:223][723]Cmd: TRANSACTION UNDO
+[2022.06.29-23.26.43:223][723]LogEditorTransaction: Undo Clicking on Elements
+[2022.06.29-23.26.44:093][773]Cmd: TRANSACTION UNDO
+[2022.06.29-23.26.44:093][773]LogEditorTransaction: Undo Clicking on Elements
+[2022.06.29-23.26.47:320][149]Cmd: EDIT COPY
+[2022.06.29-23.26.47:563][178]Cmd: EDIT PASTE
+[2022.06.29-23.27.04:916][207]LogEditorViewport: Clicking Background
+[2022.06.29-23.27.08:400][622]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.251 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.29-23.27.18:931][877]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.29-23.27.18:955][877]LogSlate: Took 0.006294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.29-23.27.18:965][877]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.29-23.27.18:979][877]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.29-23.27.19:000][877]LogViewport: Scene viewport resized to 1133x816, mode Windowed.
+[2022.06.29-23.27.19:032][878]LogViewport: Scene viewport resized to 661x476, mode Windowed.
+[2022.06.29-23.27.19:052][879]LogViewport: Scene viewport resized to 633x456, mode Windowed.
+[2022.06.29-23.27.19:074][880]LogViewport: Scene viewport resized to 614x442, mode Windowed.
+[2022.06.29-23.27.19:096][881]LogViewport: Scene viewport resized to 607x437, mode Windowed.
+[2022.06.29-23.27.19:117][882]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.29-23.27.29:609][112]LogViewport: Scene viewport resized to 191x138, mode Windowed.
+[2022.06.29-23.27.30:320][194]LogEditorViewport: Clicking Background
+[2022.06.29-23.27.36:246][886]LogViewport: Scene viewport resized to 191x138, mode Windowed.
+[2022.06.29-23.27.36:944][966]LogEditorViewport: Clicking Background
+[2022.06.29-23.28.41:846][468]LogEditorViewport: Clicking Background
+[2022.06.29-23.28.42:273][517]LogEditorViewport: Clicking Background
+[2022.06.29-23.29.00:010][415]LogEditorViewport: Clicking Background
+[2022.06.29-23.29.02:969][766]LogViewport: Scene viewport resized to 716x516, mode Windowed.
+[2022.06.29-23.29.02:987][767]LogViewport: Scene viewport resized to 880x634, mode Windowed.
+[2022.06.29-23.29.03:036][768]LogViewport: Scene viewport resized to 1145x825, mode Windowed.
+[2022.06.29-23.29.03:059][769]LogViewport: Scene viewport resized to 1194x860, mode Windowed.
+[2022.06.29-23.29.03:082][770]LogViewport: Scene viewport resized to 1213x874, mode Windowed.
+[2022.06.29-23.29.03:102][771]LogViewport: Scene viewport resized to 1217x877, mode Windowed.
+[2022.06.29-23.35.16:661][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.29-23.35.16:666][110]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.004335 seconds
+[2022.06.29-23.35.16:687][110]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lyttleton_Tunnel_Level_Auto1
+[2022.06.29-23.35.16:688][110]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level_Auto14CCC858347C25BBA8479A2957285C655.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Autosaves/Game/Lyttleton_Tunnel_Level_Auto1.umap'
+[2022.06.29-23.35.16:695][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lyttleton_Tunnel_Level' took 0.041
+[2022.06.29-23.35.16:695][110]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.06.30-00.16.54:084][800]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.22.07:719][381]LogTurnkeySupport: Display: Adding device menu item for ENCI-LAB-VR1
+[2022.06.30-00.22.07:719][381]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyReport_1.log" -log="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyLog_1.log" -project="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject"  -Device=Win64@ENCI-LAB-VR1'
+[2022.06.30-00.22.07:719][381]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyReport_1.log" -log="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyLog_1.log" -project="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject"  -Device=Win64@ENCI-LAB-VR1" -nocompile ]
+[2022.06.30-00.22.09:424][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.22.09:424][572]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:22:09 am)
+[2022.06.30-00.22.09:428][572]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.30-00.22.09:428][572]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.30-00.22.09:428][572]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.22.09:435][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007341s)
+[2022.06.30-00.22.09:435][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007434s)
+[2022.06.30-00.22.09:435][572]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.22.09:436][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.22.09:436][572]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.22.09:436][572]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2022.06.30-00.22.09:444][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.30-00.22.09:444][572]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.22.09:444][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.22.09:445][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.22.09:445][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.22.09:445][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.22.09:445][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.22.09:447][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.22.09:481][572]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.22.09:481][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.22.09:481][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.22.09:481][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.22.09:482][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.30-00.22.09:482][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.30-00.22.09:484][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.30-00.22.09:484][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.30-00.22.09:484][572]LogInit: FAudioDevice initialized.
+[2022.06.30-00.22.09:484][572]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.22.09:498][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.22.09:498][572]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.22.09:549][572]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.22.09:554][572]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.22.09
+[2022.06.30-00.22.09:554][572]LogWorld: Bringing up level for play took: 0.004926
+[2022.06.30-00.22.09:556][572]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.06.30-00.22.09:569][572]PIE: Server logged in
+[2022.06.30-00.22.09:571][572]PIE: Play in editor total start time 0.147 seconds.
+[2022.06.30-00.22.09:633][573]LogRenderer: Warning: Resizing VR buffer to 1888 by 1048
+[2022.06.30-00.22.09:672][574]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.22.10:391][583]LogHMD: Warning: SteamVR Compositor had an error on present (108)
+[2022.06.30-00.22.10:885][626]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.06.30-00.22.10:885][626]LogTurnkeySupport: Turnkey Device: Win64@ENCI-LAB-VR1: (Name=ENCI-LAB-VR1, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.06.30-00.22.12:773][791]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.22.12:796][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.22.12:796][791]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.22.12:831][791]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.22.12:883][791]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.22.12:884][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.22.12:892][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.22.12:894][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.22.12:900][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-00.22.12:900][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.30-00.22.12:902][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.30-00.22.12:908][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.06.30-00.22.12:951][792]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.30-00.22.15:785][126]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-00.22.15:793][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.22.15:793][126]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:22:15 am)
+[2022.06.30-00.22.15:793][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.22.15:801][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007612s)
+[2022.06.30-00.22.15:801][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007697s)
+[2022.06.30-00.22.15:801][126]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.22.15:801][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.22.15:802][126]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.22.15:802][126]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2022.06.30-00.22.15:808][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-00.22.15:809][126]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.30-00.22.15:809][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.22.15:809][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.22.15:809][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.22.15:809][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.22.15:809][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.22.15:809][126]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.22.15:810][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.22.15:810][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.22.15:810][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.22.15:810][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.22.15:810][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.22.15:812][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.22.15:843][126]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.22.15:844][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.22.15:844][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.22.15:844][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.22.15:845][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.30-00.22.15:845][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.30-00.22.15:846][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.30-00.22.15:846][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.30-00.22.15:846][126]LogInit: FAudioDevice initialized.
+[2022.06.30-00.22.15:846][126]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.22.15:860][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.22.15:860][126]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.22.15:916][126]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.22.15:920][126]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.22.15
+[2022.06.30-00.22.15:921][126]LogWorld: Bringing up level for play took: 0.004478
+[2022.06.30-00.22.15:923][126]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.30-00.22.15:926][126]PIE: Server logged in
+[2022.06.30-00.22.15:927][126]PIE: Play in editor total start time 0.134 seconds.
+[2022.06.30-00.22.15:970][128]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.22.18:133][319]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.22.18:153][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.22.18:153][319]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.22.18:193][319]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.22.18:233][319]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.22.18:234][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.22.18:243][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.22.18:245][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.22.18:252][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.30-00.22.18:253][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.30-00.22.18:259][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-00.22.18:301][320]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.30-00.22.28:045][466]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-00.22.28:052][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.22.28:053][466]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:22:28 am)
+[2022.06.30-00.22.28:053][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.22.28:060][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007260s)
+[2022.06.30-00.22.28:060][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007341s)
+[2022.06.30-00.22.28:060][466]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.22.28:060][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.22.28:060][466]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.22.28:061][466]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2022.06.30-00.22.28:067][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-00.22.28:069][466]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.22.28:069][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.22.28:069][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.22.28:070][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.22.28:070][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.22.28:070][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.22.28:072][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.22.28:101][466]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.22.28:101][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.22.28:101][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.22.28:101][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.22.28:102][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.06.30-00.22.28:102][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.06.30-00.22.28:103][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.06.30-00.22.28:104][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.06.30-00.22.28:104][466]LogInit: FAudioDevice initialized.
+[2022.06.30-00.22.28:104][466]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.22.28:117][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.22.28:117][466]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.22.28:168][466]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.22.28:173][466]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 3) at 2022.06.30-12.22.28
+[2022.06.30-00.22.28:174][466]LogWorld: Bringing up level for play took: 0.005800
+[2022.06.30-00.22.28:176][466]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.06.30-00.22.28:180][466]PIE: Server logged in
+[2022.06.30-00.22.28:181][466]PIE: Play in editor total start time 0.129 seconds.
+[2022.06.30-00.22.28:393][468]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.22.45:085][518]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.22.50:373][973]LogViewport: Scene viewport resized to 492x277, mode Windowed.
+[2022.06.30-00.22.52:170][128]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.22.58:100][657]LogViewport: Scene viewport resized to 492x277, mode Windowed.
+[2022.06.30-00.22.59:308][751]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.23.09:507][636]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.23.09:528][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.09:528][636]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.09:529][636]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.23.09:577][636]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.23.09:577][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.09:589][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.23.09:591][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.09:597][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.30-00.23.09:599][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.30-00.23.09:605][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.30-00.23.09:630][637]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.30-00.23.10:322][719]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-00.23.10:329][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.23.10:329][719]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:23:10 am)
+[2022.06.30-00.23.10:329][719]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.10:336][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007114s)
+[2022.06.30-00.23.10:336][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007196s)
+[2022.06.30-00.23.10:336][719]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.23.10:337][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.23.10:337][719]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.23.10:337][719]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2022.06.30-00.23.10:344][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-00.23.10:345][719]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.23.10:345][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.23.10:345][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.23.10:345][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.23.10:345][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.23.10:345][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.23.10:347][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.23.10:376][719]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.23.10:376][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.23.10:376][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.23.10:376][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.23.10:377][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.06.30-00.23.10:377][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.06.30-00.23.10:378][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.06.30-00.23.10:379][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.06.30-00.23.10:379][719]LogInit: FAudioDevice initialized.
+[2022.06.30-00.23.10:379][719]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.23.10:392][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.10:392][719]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.23.10:436][719]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.23.10:440][719]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.23.10
+[2022.06.30-00.23.10:441][719]LogWorld: Bringing up level for play took: 0.004515
+[2022.06.30-00.23.10:443][719]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.06.30-00.23.10:446][719]PIE: Server logged in
+[2022.06.30-00.23.10:447][719]PIE: Play in editor total start time 0.118 seconds.
+[2022.06.30-00.23.10:489][721]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.23.12:726][918]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.23.12:744][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.12:744][918]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.12:779][918]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.23.12:816][918]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.23.12:817][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.12:826][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.23.12:828][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.12:834][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-00.23.12:834][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.30-00.23.12:835][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.30-00.23.12:841][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.30-00.23.12:864][919]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.30-00.23.15:430][214]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.23.19:085][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-00.23.19:107][606]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level
+[2022.06.30-00.23.19:108][606]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level84DBB4E24A9F9AEC42A447BE069449A2.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap'
+[2022.06.30-00.23.19:125][606]LogFileHelpers: No new changes to save!
+[2022.06.30-00.23.19:139][606]AssetCheck: New page: Asset Save: Lyttleton_Tunnel_Level
+[2022.06.30-00.23.19:139][606]LogContentValidation: Display: Validating World /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level
+[2022.06.30-00.23.20:423][750]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.23.22:038][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.23.22:039][929]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:23:22 am)
+[2022.06.30-00.23.22:039][929]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.22:046][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007242s)
+[2022.06.30-00.23.22:046][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007321s)
+[2022.06.30-00.23.22:046][929]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.23.22:046][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.23.22:046][929]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.23.22:047][929]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2022.06.30-00.23.22:053][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-00.23.22:055][929]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.23.22:055][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.23.22:055][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.23.22:055][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.23.22:055][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.23.22:055][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.23.22:057][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.23.22:088][929]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.23.22:088][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.23.22:088][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.23.22:088][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.23.22:089][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.06.30-00.23.22:089][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.06.30-00.23.22:091][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.06.30-00.23.22:091][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.06.30-00.23.22:091][929]LogInit: FAudioDevice initialized.
+[2022.06.30-00.23.22:091][929]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.23.22:103][929]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.23.22:107][929]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.23.22
+[2022.06.30-00.23.22:108][929]LogWorld: Bringing up level for play took: 0.004344
+[2022.06.30-00.23.22:110][929]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.06.30-00.23.22:111][929]PIE: Server logged in
+[2022.06.30-00.23.22:111][929]PIE: Play in editor total start time 0.073 seconds.
+[2022.06.30-00.23.32:398][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.32:398][150]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.32:398][150]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.23.32:398][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.32:411][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.23.32:413][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.32:419][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-00.23.32:419][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.06.30-00.23.32:421][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.06.30-00.23.32:424][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.32:426][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-00.23.32:488][151]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.06.30-00.23.32:492][151]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.23.33:341][238]LogTurnkeySupport: Display: Adding device menu item for ENCI-LAB-VR1
+[2022.06.30-00.23.38:878][826]LogEditorViewport: Clicking Background
+[2022.06.30-00.23.40:684][ 27]LogEditorViewport: Clicking Background
+[2022.06.30-00.23.41:856][167]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-00.23.41:864][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.23.41:864][167]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:23:41 am)
+[2022.06.30-00.23.41:864][167]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.41:871][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007298s)
+[2022.06.30-00.23.41:871][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007380s)
+[2022.06.30-00.23.41:871][167]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.23.41:872][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.23.41:872][167]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.23.41:872][167]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2022.06.30-00.23.41:879][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-00.23.41:882][167]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.23.41:882][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.23.41:882][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.23.41:883][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.23.41:883][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.23.41:883][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.23.41:884][167]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.23.41:914][167]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.23.41:914][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.23.41:914][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.23.41:914][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.23.41:915][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.06.30-00.23.41:915][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.06.30-00.23.41:917][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.06.30-00.23.41:917][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.06.30-00.23.41:917][167]LogInit: FAudioDevice initialized.
+[2022.06.30-00.23.41:917][167]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.23.41:929][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.41:929][167]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.23.41:972][167]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.23.41:976][167]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.23.41
+[2022.06.30-00.23.41:977][167]LogWorld: Bringing up level for play took: 0.004439
+[2022.06.30-00.23.41:979][167]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.06.30-00.23.41:982][167]PIE: Server logged in
+[2022.06.30-00.23.41:983][167]PIE: Play in editor total start time 0.119 seconds.
+[2022.06.30-00.23.42:025][169]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.23.43:689][314]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.23.43:713][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.23.43:713][314]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.23.43:747][314]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.23.43:789][314]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.23.43:789][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.43:802][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.23.43:804][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.23.43:810][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-00.23.43:810][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.06.30-00.23.43:811][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.06.30-00.23.43:817][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.30-00.23.43:840][315]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.06.30-00.23.47:603][727]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.30-00.23.47:732][727]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.06.30-00.23.51:705][106]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.30-00.23.51:709][106]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.30-00.23.59:699][905]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.06.30-00.23.59:703][905]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.06.30-00.24.00:558][962]LogTurnkeySupport: Display: Adding device menu item for ENCI-LAB-VR1
+[2022.06.30-00.24.07:096][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.24.07:096][723]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:24:07 am)
+[2022.06.30-00.24.07:096][723]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.24.07:104][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007552s)
+[2022.06.30-00.24.07:104][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007634s)
+[2022.06.30-00.24.07:104][723]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.24.07:104][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.24.07:104][723]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.24.07:105][723]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2022.06.30-00.24.07:111][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-00.24.07:112][723]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.24.07:112][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.24.07:112][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.24.07:113][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.24.07:113][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.24.07:113][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.24.07:115][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.24.07:144][723]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.24.07:145][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.24.07:145][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.24.07:145][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.24.07:146][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.06.30-00.24.07:146][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.06.30-00.24.07:147][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.06.30-00.24.07:147][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.06.30-00.24.07:147][723]LogInit: FAudioDevice initialized.
+[2022.06.30-00.24.07:147][723]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.24.07:160][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.24.07:160][723]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.24.07:207][723]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.24.07:211][723]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.24.07
+[2022.06.30-00.24.07:212][723]LogWorld: Bringing up level for play took: 0.004382
+[2022.06.30-00.24.07:214][723]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.06.30-00.24.07:217][723]PIE: Server logged in
+[2022.06.30-00.24.07:218][723]PIE: Play in editor total start time 0.122 seconds.
+[2022.06.30-00.24.07:285][725]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.24.11:841][131]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.24.11:860][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.24.11:860][131]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.24.11:901][131]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.24.11:941][131]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.24.11:942][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.24.11:948][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.24.11:950][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.24.11:956][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-00.24.11:956][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.06.30-00.24.11:958][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.06.30-00.24.11:964][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.30-00.24.11:990][132]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.06.30-00.24.13:561][312]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-00.24.46:558][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-00.24.46:582][ 25]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level
+[2022.06.30-00.24.46:583][ 25]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level78539F344407DD2694E52D8B7E4C2F47.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap'
+[2022.06.30-00.24.46:596][ 25]LogFileHelpers: No new changes to save!
+[2022.06.30-00.24.46:604][ 25]AssetCheck: New page: Asset Save: Lyttleton_Tunnel_Level
+[2022.06.30-00.24.46:604][ 25]LogContentValidation: Display: Validating World /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level
+[2022.06.30-00.24.50:874][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.30-00.24.50:895][481]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level
+[2022.06.30-00.24.50:896][481]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level7267350F4F5BC98ADFABAABDDD441959.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap'
+[2022.06.30-00.24.50:908][481]LogFileHelpers: No new changes to save!
+[2022.06.30-00.24.50:916][481]AssetCheck: New page: Asset Save: Lyttleton_Tunnel_Level
+[2022.06.30-00.24.50:916][481]LogContentValidation: Display: Validating World /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level
+[2022.06.30-00.24.53:197][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-00.25.00:714][563]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-00.25.00:721][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.25.00:721][563]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:25:00 am)
+[2022.06.30-00.25.00:721][563]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.25.00:729][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008063s)
+[2022.06.30-00.25.00:729][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.008148s)
+[2022.06.30-00.25.00:730][563]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.25.00:730][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.25.00:730][563]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.25.00:730][563]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2022.06.30-00.25.00:737][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-00.25.00:741][563]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.25.00:741][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.25.00:741][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.25.00:742][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.25.00:742][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.25.00:742][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.25.00:743][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.25.00:775][563]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.25.00:776][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.25.00:776][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.25.00:776][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.25.00:777][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.06.30-00.25.00:777][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.06.30-00.25.00:779][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.06.30-00.25.00:779][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.06.30-00.25.00:779][563]LogInit: FAudioDevice initialized.
+[2022.06.30-00.25.00:779][563]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.25.00:792][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.25.00:793][563]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.25.00:844][563]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.25.00:849][563]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.25.00
+[2022.06.30-00.25.00:850][563]LogWorld: Bringing up level for play took: 0.005420
+[2022.06.30-00.25.00:852][563]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.06.30-00.25.00:855][563]PIE: Server logged in
+[2022.06.30-00.25.00:857][563]PIE: Play in editor total start time 0.136 seconds.
+[2022.06.30-00.25.00:907][565]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.25.55:819][478]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.25.55:839][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.25.55:839][478]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.25.55:874][478]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.25.55:909][478]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.25.55:909][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.25.55:922][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.25.55:923][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.25.55:929][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-00.25.55:930][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.06.30-00.25.55:931][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.06.30-00.25.55:937][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-00.25.55:969][479]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.06.30-00.25.59:900][944]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-00.25.59:908][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-00.25.59:908][944]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 12:25:59 am)
+[2022.06.30-00.25.59:908][944]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.25.59:916][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007218s)
+[2022.06.30-00.25.59:916][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007298s)
+[2022.06.30-00.25.59:916][944]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-00.25.59:916][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-00.25.59:916][944]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-00.25.59:916][944]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2022.06.30-00.25.59:922][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-00.25.59:925][944]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-00.25.59:925][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-00.25.59:925][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-00.25.59:925][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-00.25.59:925][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-00.25.59:925][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-00.25.59:927][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-00.25.59:957][944]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-00.25.59:958][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-00.25.59:958][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-00.25.59:958][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-00.25.59:959][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.06.30-00.25.59:959][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.06.30-00.25.59:960][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.06.30-00.25.59:960][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.06.30-00.25.59:960][944]LogInit: FAudioDevice initialized.
+[2022.06.30-00.25.59:960][944]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-00.25.59:974][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.25.59:974][944]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-00.26.00:016][944]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-00.26.00:021][944]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-12.26.00
+[2022.06.30-00.26.00:021][944]LogWorld: Bringing up level for play took: 0.004679
+[2022.06.30-00.26.00:023][944]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.06.30-00.26.00:026][944]PIE: Server logged in
+[2022.06.30-00.26.00:028][944]PIE: Play in editor total start time 0.119 seconds.
+[2022.06.30-00.26.00:071][946]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.30-00.26.25:122][187]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-00.26.25:146][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-00.26.25:146][187]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-00.26.25:177][187]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-00.26.25:202][187]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-00.26.25:202][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.26.25:215][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-00.26.25:217][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-00.26.25:223][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.06.30-00.26.25:225][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.06.30-00.26.25:230][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.30-00.26.25:263][188]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.06.30-00.27.08:403][362]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.251 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.30-01.19.28:354][360]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (2- HTC Vive), InstanceID=1
+[2022.06.30-01.19.28:354][360]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7472
+[2022.06.30-01.19.28:409][366]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{cad0ddd4-8205-42fc-8202-1f3ec59f9559}, Name=Speakers (2- HTC Vive)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=58.17
+[2022.06.30-01.19.28:409][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.30-01.19.28:415][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.30-01.19.29:956][552]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=HTC-VIVE (NVIDIA High Definition Audio), InstanceID=1
+[2022.06.30-01.19.29:956][552]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7472
+[2022.06.30-01.19.30:052][563]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e3fd2251-c448-466e-a6d1-9fecd449111e}, Name=HTC-VIVE (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=99.85
+[2022.06.30-01.19.30:052][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.30-01.19.30:058][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.30-01.27.08:473][796]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.289 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.30-01.39.35:472][598]MapCheck: New page: Map Check
+[2022.06.30-01.39.35:495][598]LogSlate: Took 0.004560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.30-01.39.35:496][598]LightingResults: New page: Lighting Build - 1/07/2022, 1:39:35 am
+[2022.06.30-01.39.35:626][598]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.30-01.39.35:685][598]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.30-01.39.35:701][598]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.30-01.39.36:221][598]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.30-01.39.36:221][598]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16376
+[2022.06.30-01.39.37:805][598]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.06.30-01.39.37:805][598]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.30-01.39.37:805][598]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.30-01.39.37:805][598]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.30-01.39.37:805][598]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.30-01.39.37:805][598]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.30-01.39.37:921][598]LogEditorBuildUtils: Build time 0:02
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: ================================================
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.30-01.39.37:925][598]LogShaderCompilers: Display: ================================================
+[2022.06.30-01.39.37:960][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.30-01.39.44:253][ 61]Job is a success!
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.072s
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:          0: 5.4% covering 100.0% of volume
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:          1: 37.8% covering 10.9% of volume
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:          2: 56.8% covering 0.3% of volume
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.30-01.39.44:542][ 62]LogVolumetricLightmapImport:          Lyttleton_Tunnel_Level 			 148 bricks 	 100.0% (Persistent Level)
+[2022.06.30-01.39.44:679][ 62]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.06.30-01.39.44:680][ 62]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.06.30-01.39.44:683][ 62]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.06.30-01.39.44:703][ 62]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.06.30-01.39.44:872][ 62]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.06.30-01.39.44:876][ 62]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:ShadowMapTexture2D_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.06.30-01.39.44:952][ 62]Lightmass on ENCI-LAB-VR1: 5.62 sec total, 213 ms importing, 35 ms setup, 524 ms photons, 4.83 sec processing, 0 us extra exporting [97/97 mappings]. Threads: 1:12 min total, 45.1 sec processing.
+[2022.06.30-01.39.44:963][ 62]LogStaticLightingSystem: Lyttleton_Tunnel_Level_BuiltData storing lightmap data for 97 meshes in 3 LightmapResourceClusters (32.3 Meshes per cluster).
+[2022.06.30-01.39.44:982][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.30-01.39.44:989][ 62]LogStaticLightingSystem: Illumination: 9.45 sec (142 ms encoding lightmaps, 154 ms encoding shadowmaps)
+[2022.06.30-01.39.44:989][ 62]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.30-01.39.44:989][ 62]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.06.30-01.39.45:819][ 62]DumpUnbuiltLightIteractions
+[2022.06.30-01.39.45:819][ 62]Lights with unbuilt interactions: 0
+[2022.06.30-01.39.45:819][ 62]
+[2022.06.30-01.39.45:819][ 62]Primitives with unbuilt interactions: 0
+[2022.06.30-01.39.45:889][ 63]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.30-01.39.45:889][ 63]MapCheck: New page: Lyttleton_Tunnel_Level - 1/07/2022, 1:39:45 am
+[2022.06.30-01.39.45:890][ 63]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.94ms to complete.
+[2022.06.30-01.39.47:973][308]LogSlate: Window 'Message Log' being destroyed
+[2022.06.30-01.39.47:978][308]LogSlate: Window 'Message Log' being destroyed
+[2022.06.30-01.40.26:559][932]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-01.40.26:566][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-01.40.26:566][932]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 1:40:26 am)
+[2022.06.30-01.40.26:566][932]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.40.26:574][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007516s)
+[2022.06.30-01.40.26:574][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007607s)
+[2022.06.30-01.40.26:574][932]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.40.26:574][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.40.26:575][932]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-01.40.26:575][932]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2022.06.30-01.40.26:581][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-01.40.26:582][932]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.06.30-01.40.26:582][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-01.40.26:582][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-01.40.26:582][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-01.40.26:582][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-01.40.26:582][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-01.40.26:583][932]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-01.40.26:583][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-01.40.26:583][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-01.40.26:583][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-01.40.26:583][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-01.40.26:583][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-01.40.26:585][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-01.40.26:618][932]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-01.40.26:618][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-01.40.26:618][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-01.40.26:618][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-01.40.26:619][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.06.30-01.40.26:619][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.06.30-01.40.26:621][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.06.30-01.40.26:621][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.06.30-01.40.26:621][932]LogInit: FAudioDevice initialized.
+[2022.06.30-01.40.26:621][932]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-01.40.26:635][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.40.26:635][932]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-01.40.26:686][932]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-01.40.26:691][932]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-13.40.26
+[2022.06.30-01.40.26:691][932]LogWorld: Bringing up level for play took: 0.004813
+[2022.06.30-01.40.26:693][932]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.06.30-01.40.26:697][932]PIE: Server logged in
+[2022.06.30-01.40.26:698][932]PIE: Play in editor total start time 0.132 seconds.
+[2022.06.30-01.40.35:972][758]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-01.40.35:995][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.40.35:995][758]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.40.36:029][758]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-01.40.36:052][758]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-01.40.36:053][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.40.36:063][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-01.40.36:065][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.40.36:071][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.06.30-01.40.36:072][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.06.30-01.40.36:079][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-01.40.36:110][759]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.06.30-01.40.39:298][133]LogTurnkeySupport: Display: Adding device menu item for ENCI-LAB-VR1
+[2022.06.30-01.40.40:943][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-01.40.40:943][320]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 1:40:40 am)
+[2022.06.30-01.40.40:943][320]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.40.40:950][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007101s)
+[2022.06.30-01.40.40:950][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007187s)
+[2022.06.30-01.40.40:951][320]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.40.40:951][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.40.40:951][320]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-01.40.40:951][320]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2022.06.30-01.40.40:958][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.30-01.40.40:960][320]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-01.40.40:960][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-01.40.40:960][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-01.40.40:960][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-01.40.40:960][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-01.40.40:960][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-01.40.40:962][320]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-01.40.40:992][320]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-01.40.40:992][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-01.40.40:992][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-01.40.40:992][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-01.40.40:993][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.06.30-01.40.40:993][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.06.30-01.40.40:995][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.06.30-01.40.40:995][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.06.30-01.40.40:995][320]LogInit: FAudioDevice initialized.
+[2022.06.30-01.40.40:995][320]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-01.40.41:007][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.40.41:008][320]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-01.40.41:053][320]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-01.40.41:057][320]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-13.40.41
+[2022.06.30-01.40.41:058][320]LogWorld: Bringing up level for play took: 0.004332
+[2022.06.30-01.40.41:060][320]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.06.30-01.40.41:064][320]PIE: Server logged in
+[2022.06.30-01.40.41:065][320]PIE: Play in editor total start time 0.122 seconds.
+[2022.06.30-01.40.47:273][870]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-01.40.47:298][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.40.47:298][870]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.40.47:329][870]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-01.40.47:353][870]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-01.40.47:353][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.40.47:366][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-01.40.47:368][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.40.47:374][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-01.40.47:375][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.06.30-01.40.47:376][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.06.30-01.40.47:381][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-01.40.47:412][871]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.06.30-01.40.54:167][633]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-01.41.04:603][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.30-01.41.04:669][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.06.30-01.41.04:691][692]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level
+[2022.06.30-01.41.04:692][692]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_LevelC024015E4D77578A0048D3932C44FB1F.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap'
+[2022.06.30-01.41.04:705][692]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Lyttleton_Tunnel_Level_BuiltData
+[2022.06.30-01.41.04:793][692]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level_BuiltData
+[2022.06.30-01.41.04:794][692]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level_BuiltData65CC435F4D85FD5FC2270FB4CE473EBC.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level_BuiltData.uasset'
+[2022.06.30-01.41.04:795][692]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Lyttleton_Tunnel_Level_BuiltData
+[2022.06.30-01.41.04:795][692]LogFileHelpers: Saving map 'Lyttleton_Tunnel_Level' took 0.132
+[2022.06.30-01.41.04:883][692]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level_BuiltData
+[2022.06.30-01.41.04:884][692]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level_BuiltDataE49404BF4FB3DABE420660A3A7787DB7.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level_BuiltData.uasset'
+[2022.06.30-01.41.04:895][692]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.30-01.41.04:895][692]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData
+[2022.06.30-01.41.04:895][692]LogContentValidation: Display: Validating World /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level
+[2022.06.30-01.41.06:719][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-01.41.06:741][869]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level
+[2022.06.30-01.41.06:742][869]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_LevelDCC1CA1F488B12EF322124BB7A7A936C.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap'
+[2022.06.30-01.41.06:755][869]LogFileHelpers: No new changes to save!
+[2022.06.30-01.41.06:763][869]AssetCheck: New page: Asset Save: Lyttleton_Tunnel_Level
+[2022.06.30-01.41.06:763][869]LogContentValidation: Display: Validating World /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level
+[2022.06.30-01.41.12:489][515]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-01.41.12:496][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-01.41.12:496][515]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 1:41:12 am)
+[2022.06.30-01.41.12:496][515]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.41.12:503][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007034s)
+[2022.06.30-01.41.12:503][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007114s)
+[2022.06.30-01.41.12:503][515]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.41.12:503][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.41.12:504][515]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-01.41.12:504][515]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2022.06.30-01.41.12:510][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-01.41.12:511][515]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-01.41.12:511][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-01.41.12:511][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-01.41.12:512][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-01.41.12:512][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-01.41.12:512][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-01.41.12:513][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-01.41.12:544][515]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-01.41.12:544][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-01.41.12:544][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-01.41.12:544][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-01.41.12:545][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.06.30-01.41.12:545][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.06.30-01.41.12:547][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.06.30-01.41.12:547][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.06.30-01.41.12:547][515]LogInit: FAudioDevice initialized.
+[2022.06.30-01.41.12:547][515]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-01.41.12:560][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.41.12:560][515]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-01.41.12:605][515]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-01.41.12:610][515]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-13.41.12
+[2022.06.30-01.41.12:610][515]LogWorld: Bringing up level for play took: 0.004800
+[2022.06.30-01.41.12:612][515]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.06.30-01.41.12:616][515]PIE: Server logged in
+[2022.06.30-01.41.12:617][515]PIE: Play in editor total start time 0.121 seconds.
+[2022.06.30-01.41.24:195][503]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-01.41.25:934][711]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-01.41.25:956][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.41.25:956][711]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.41.25:957][711]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-01.41.26:035][711]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-01.41.26:036][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.41.26:046][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-01.41.26:048][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.41.26:054][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-01.41.26:054][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.06.30-01.41.26:055][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.06.30-01.41.26:061][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-01.41.26:074][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-01.41.26:074][711]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 1:41:26 am)
+[2022.06.30-01.41.26:074][711]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.41.26:082][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007194s)
+[2022.06.30-01.41.26:082][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007283s)
+[2022.06.30-01.41.26:082][711]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.41.26:082][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.41.26:082][711]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-01.41.26:082][711]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2022.06.30-01.41.26:089][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-01.41.26:089][711]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.06.30-01.41.26:089][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-01.41.26:089][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-01.41.26:090][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-01.41.26:090][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-01.41.26:090][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-01.41.26:090][711]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-01.41.26:090][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-01.41.26:090][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-01.41.26:090][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-01.41.26:090][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-01.41.26:090][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-01.41.26:092][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-01.41.26:122][711]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-01.41.26:122][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-01.41.26:122][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-01.41.26:122][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-01.41.26:123][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.06.30-01.41.26:123][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.06.30-01.41.26:125][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.06.30-01.41.26:125][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.06.30-01.41.26:125][711]LogInit: FAudioDevice initialized.
+[2022.06.30-01.41.26:125][711]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-01.41.26:138][711]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-01.41.26:142][711]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-13.41.26
+[2022.06.30-01.41.26:142][711]LogWorld: Bringing up level for play took: 0.004414
+[2022.06.30-01.41.26:144][711]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.06.30-01.41.26:145][711]PIE: Server logged in
+[2022.06.30-01.41.26:146][711]PIE: Play in editor total start time 0.072 seconds.
+[2022.06.30-01.41.26:205][712]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.30-01.41.32:446][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.41.32:446][450]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.41.32:446][450]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-01.41.32:447][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.41.32:454][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-01.41.32:456][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.41.32:462][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-01.41.32:463][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.06.30-01.41.32:464][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.06.30-01.41.32:468][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.41.32:470][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-01.41.32:510][454]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.06.30-01.41.33:533][574]LogTurnkeySupport: Display: Adding device menu item for ENCI-LAB-VR1
+[2022.06.30-01.41.39:775][174]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-01.41.39:782][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-01.41.39:782][174]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 1:41:39 am)
+[2022.06.30-01.41.39:782][174]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-01.41.39:790][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007525s)
+[2022.06.30-01.41.39:790][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.007623s)
+[2022.06.30-01.41.39:790][174]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.41.39:790][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.41.39:791][174]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-01.41.39:791][174]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2022.06.30-01.41.39:797][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-01.41.39:798][174]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.06.30-01.41.39:798][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-01.41.39:798][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-01.41.39:798][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-01.41.39:798][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-01.41.39:798][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-01.41.39:798][174]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-01.41.39:799][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-01.41.39:799][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-01.41.39:799][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-01.41.39:799][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-01.41.39:799][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-01.41.39:801][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-01.41.39:831][174]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-01.41.39:831][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-01.41.39:831][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-01.41.39:831][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-01.41.39:831][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.06.30-01.41.39:831][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.06.30-01.41.39:833][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.06.30-01.41.39:833][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.06.30-01.41.39:833][174]LogInit: FAudioDevice initialized.
+[2022.06.30-01.41.39:833][174]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-01.41.39:847][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.41.39:847][174]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-01.41.39:891][174]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-01.41.39:895][174]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-13.41.39
+[2022.06.30-01.41.39:896][174]LogWorld: Bringing up level for play took: 0.004526
+[2022.06.30-01.41.39:898][174]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.06.30-01.41.39:901][174]PIE: Server logged in
+[2022.06.30-01.41.39:903][174]PIE: Play in editor total start time 0.121 seconds.
+[2022.06.30-01.41.40:585][232]LogWindows: Windows GetLastError: The operation completed successfully. (0)

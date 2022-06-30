@@ -1,0 +1,1526 @@
+﻿Log file open, 06/30/22 13:41:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4308)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lyttleton_Tunnel
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Users\Administrator.ENCI-VR1.000\Desktop\Peter\Lyttleton_Tunnel_VR\Lyttleton_Tunnel\Lyttleton_Tunnel.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1766] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 2700X Eight-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b8c9405d4653ccfe0c291e94443027a9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.361317
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-3F8D83DC449F0EB6A87A1BB22F97B66A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin SteamVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Steam/SteamVR/Content/' mounted to '/SteamVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1766] (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.30-01.41.55:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.30-01.41.55:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.30-01.41.55:693][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.30-01.41.55:694][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.30-01.41.55:696][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.30-01.41.55:696][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.30-01.41.55:696][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.30-01.41.55:696][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.30-01.41.55:697][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.30-01.41.55:710][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.30-01.41.55:710][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.30-01.41.56:590][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.30-01.41.56:590][  0]LogD3D12RHI: Adapter has 8010MB of dedicated video memory, 0MB of dedicated system memory, and 16358MB of shared system memory, 1 output[s]
+[2022.06.30-01.41.56:600][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.30-01.41.56:600][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16358MB of shared system memory, 0 output[s]
+[2022.06.30-01.41.56:600][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.30-01.41.56:600][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.30-01.41.56:600][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.30-01.41.56:600][  0]LogHAL: Display: Platform has ~ 32 GB [34305531904 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.30-01.41.56:600][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.30-01.41.56:600][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.30-01.41.56:600][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.30-01.41.56:601][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.30-01.41.56:601][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.30-01.41.56:601][  0]LogInit: Computer: ENCI-LAB-VR1
+[2022.06.30-01.41.56:601][  0]LogInit: User: Administrator
+[2022.06.30-01.41.56:601][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.30-01.41.56:601][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.30-01.41.56:601][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.06.30-01.41.56:601][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.30-01.41.56:601][  0]LogMemory: Process Physical Memory: 284.10 MB used, 292.34 MB peak
+[2022.06.30-01.41.56:601][  0]LogMemory: Process Virtual Memory: 250.02 MB used, 250.02 MB peak
+[2022.06.30-01.41.56:601][  0]LogMemory: Physical Memory: 8104.45 MB used,  24611.85 MB free, 32716.30 MB total
+[2022.06.30-01.41.56:601][  0]LogMemory: Virtual Memory: 12208.92 MB used,  25371.39 MB free, 37580.30 MB total
+[2022.06.30-01.41.56:601][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.30-01.41.56:607][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.30-01.41.56:623][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.30-01.41.56:624][  0]LogInit: Using OS detected language (en-US).
+[2022.06.30-01.41.56:624][  0]LogInit: Using OS detected locale (en-NZ).
+[2022.06.30-01.41.56:632][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.06.30-01.41.56:851][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.30-01.41.56:866][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.30-01.41.56:866][  0]LogWindowsTextInputMethodSystem:   - English (New Zealand) - (Keyboard).
+[2022.06.30-01.41.56:866][  0]LogWindowsTextInputMethodSystem:   - English (New Zealand) - (Keyboard).
+[2022.06.30-01.41.56:866][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.06.30-01.41.56:867][  0]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2022.06.30-01.41.56:905][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.30-01.41.56:905][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.30-01.41.59:472][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.30-01.41.59:475][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.30-01.41.59:475][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.30-01.41.59:551][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.30-01.41.59:603][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.30-01.41.59:610][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.30-01.41.59:623][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.30-01.41.59:644][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.30-01.41.59:644][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.30-01.41.59:678][  0]LogD3D12RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.30-01.41.59:678][  0]LogWindows: Attached monitors:
+[2022.06.30-01.41.59:678][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.30-01.41.59:678][  0]LogWindows: Found 1 attached monitors.
+[2022.06.30-01.41.59:678][  0]LogWindows: EnumDisplayDevices:
+[2022.06.30-01.41.59:679][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.30-01.41.59:679][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.30-01.41.59:679][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.30-01.41.59:679][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.30-01.41.59:679][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.30-01.41.59:679][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2022.06.30-01.41.59:679][  0]LogD3D12RHI:   Driver Version: 516.40 (internal:31.0.15.1640, unified:516.40)
+[2022.06.30-01.41.59:679][  0]LogD3D12RHI:      Driver Date: 6-6-2022
+[2022.06.30-01.41.59:679][  0]LogRHI: Texture pool is 4562 MB (70% of 6517 MB)
+[2022.06.30-01.41.59:680][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.30-01.41.59:680][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.30-01.41.59:690][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.30-01.41.59:696][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyReport_0.log" -log="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyLog_0.log" -project="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject"  -platform=all'
+[2022.06.30-01.41.59:696][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyReport_0.log" -log="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/TurnkeyLog_0.log" -project="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Lyttleton_Tunnel.uproject"  -platform=all" ]
+[2022.06.30-01.41.59:723][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.30-01.41.59:732][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.30-01.41.59:732][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.30-01.41.59:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.30-01.41.59:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.30-01.41.59:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.30-01.41.59:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.30-01.41.59:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.30-01.41.59:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.30-01.41.59:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.30-01.41.59:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.30-01.41.59:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.30-01.41.59:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.30-01.41.59:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.30-01.41.59:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.30-01.41.59:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.30-01.41.59:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.30-01.41.59:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.30-01.41.59:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.30-01.41.59:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.30-01.41.59:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.30-01.41.59:785][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.30-01.41.59:793][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.30-01.41.59:796][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.30-01.41.59:796][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.30-01.41.59:796][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.30-01.41.59:796][  0]LogTargetPlatformManager:   PCM
+[2022.06.30-01.41.59:798][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.30-01.41.59:798][  0]LogTargetPlatformManager:   BINKA
+[2022.06.30-01.41.59:798][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.30-01.41.59:798][  0]LogTargetPlatformManager:   OGG
+[2022.06.30-01.41.59:798][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.30-01.41.59:798][  0]LogTargetPlatformManager:   OPUS
+[2022.06.30-01.41.59:835][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.30-01.41.59:840][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.30-01.41.59:841][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.30-01.41.59:841][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.30-01.41.59:841][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.30-01.41.59:841][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.30-01.41.59:843][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.30-01.41.59:843][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.30-01.41.59:843][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.30-01.41.59:843][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.30-01.41.59:843][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.30-01.41.59:843][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.30-01.41.59:844][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.30-01.41.59:844][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.30-01.41.59:844][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.30-01.41.59:848][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.30-01.41.59:849][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.30-01.41.59:853][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.30-01.41.59:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.30-01.41.59:856][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.30-01.41.59:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.30-01.41.59:856][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.30-01.41.59:878][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.30-01.41.59:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.30-01.41.59:879][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.30-01.41.59:890][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.30-01.41.59:890][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=272.32MBs, RandomWriteSpeed=126.61MBs. Assigned SpeedClass 'Local'
+[2022.06.30-01.41.59:891][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.30-01.41.59:892][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.30-01.41.59:892][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.30-01.41.59:899][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.30-01.41.59:899][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.30-01.41.59:899][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Intermediate/Shaders/WorkingDirectory/11424/).
+[2022.06.30-01.41.59:899][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/2CD17A6644251C788CE3E490D944C67F/'.
+[2022.06.30-01.41.59:900][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.30-01.41.59:900][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.30-01.42.04:971][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.30-01.42.04:971][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.30-01.42.04:971][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.30-01.42.05:008][  0]LogAssetRegistry: FAssetRegistry took 0.0148 seconds to start up
+[2022.06.30-01.42.05:015][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.30-01.42.05:215][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.30-01.42.05:215][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.30-01.42.05:555][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.30-01.42.05:555][  0]LogDeviceProfileManager: Active device profile: [000009A3CCA6EFC0][000009A3C16F5000 50] WindowsEditor
+[2022.06.30-01.42.05:555][  0]LogDeviceProfileManager: Profiles: [000009A3CCA6EA80][000009A3C16F2800 50] Windows, [000009A3CCA6EFC0][000009A3C16F5000 50] WindowsEditor, [000009A3CCA6E000][000009A3C166C800 50] WindowsServer, [000009A3CCA6A640][000009A3AB725000 50] WindowsClient, [000009A3CCA6B600][000009A3C5E5C800 50] IOS, [000009A3CCA6E8C0][000009A3CC5C0000 50] iPadAir2, [000009A3CCA6B280][000009A3CC5C7800 50] IPadPro, [000009A3CCA6AF00][000009A3CC5C5000 50] iPadAir3, [000009A3CCA6E540][000009A3CC5CA000 50] iPadAir4, [000009A3CCA6E380][000009A3CC5CC800 50] iPadMini4, [000009A3CCA6B0C0][000009A3C16F0000 50] iPadMini5, [000009A3CCA6D040][000009A3CC5F0000 50] iPadMini6, [000009A3CC602F40][000009A3CC5FA000 50] iPhone6S, [000009A3CC6032C0][000009A3CC5F7800 50] iPhone7, [000009A3CC603640][000009A3CC5F5000 50] iPodTouch7, [000009A3CC603100][000009A3CC5FC800 50] iPhone6SPlus, [000009A3CC601DC0][000009A3CC5C2800 50] iPhone7Plus, [000009A3CC601F80][000009A3CC610000 50] iPhoneSE, [000009A3CC603480][000009A3CC615000 50] iPhone8, [000009A3CC600A80][000009A3CC617800 50] iPhone8Plus, [000009A3CC602A00][000009A3CC61A000 50] iPhoneX, [000009A3CC600FC0][000009A3CC61C800 50] iPhoneXS, [000009A3CC601500][000009A3CC5F2800 50] iPhoneXSMax, [000009A3CC602300][000009A3CC620000 50] iPhoneXR, [000009A3CC6016C0][000009A3CC625000 50] iPhone11, [000009A3CC6008C0][000009A3CC627800 50] iPhone11Pro, [000009A3CC600000][000009A3CC62A000 50] iPhone11ProMax, [000009A3CC602BC0][000009A3CC62C800 50] iPhoneSE2, [000009A3CC603F00][000009A3CC612800 50] iPhone12Mini, [000009A3CC602140][000009A3CC630000 50] iPhone12, [000009A3CC6040C0][000009A3CC635000 50] iPhone12Pro, [000009A3CC600380][000009A3CC637800 50] iPhone12ProMax, [000009A3CC604280][000009A3CC63A000 50] iPhone13Mini, [000009A3CC600540][000009A3CC63C800 50] iPhone13, [000009A3CC6024C0][000009A3CC622800 50] iPhone13Pro, [000009A3CC602D80][000009A3CC640000 50] iPhone13ProMax, [000009A3CC603800][000009A3CC645000 50] iPadPro105, [000009A3CC604EC0][000009A3CC647800 50] iPadPro129, [000009A3CC602680][000009A3CC64A000 50] iPadPro97, [000009A3CC605080][000009A3CC64C800 50] iPadPro2_129, [000009A3CC604440][000009A3CC632800 50] iPad5, [000009A3CC605240][000009A3CC650000 50] iPad6, [000009A3CC601180][000009A3CC655000 50] iPad7, [000009A3CC601A40][000009A3CC657800 50] iPad8, [000009A3CC600700][000009A3CC65A000 50] iPad9, [000009A3CC6039C0][000009A3CC65C800 50] iPadPro11, [000009A3CC605E80][000009A3CC642800 50] iPadPro2_11, [000009A3CC603D40][000009A3CC660000 50] iPadPro3_11, [000009A3CC605400][000009A3CC665000 50] iPadPro3_129, [000009A3CC606200][000009A3CC667800 50] iPadPro4_129, [000009A3CC600C40][000009A3CC66A000 50] iPadPro5_129, [000009A3CC606040][000009A3CC66C800 50] AppleTV, [000009A3CC600E00][000009A3CC652800 50] AppleTV4K, [000009A3CC605CC0][000009A3CC670000 50] TVOS, [000009A3CC608C00][000009A3CC677800 50] Mac, [000009A3CC608F80][000009A3CC675000 50] MacEditor, [000009A3CC608880][000009A3CC67A000 50] MacClient, [000009A3CC6001C0][000009A3CC67C800 50] MacServer, [000009A3CC609140][000009A3CC690000 50] Linux, [000009A3CC6055C0][000009A3CC692800 50] LinuxEditor, [000009A3CC6071C0][000009A3CC697800 50] LinuxArm64Editor, [000009A3CC607380][000009A3CC69A000 50] LinuxArm64, [000009A3CC607FC0][000009A3CC69C800 50] LinuxClient, [000009A3CC602840][000009A3CC662800 50] LinuxArm64Client, [000009A3CC6086C0][000009A3CC695000 50] LinuxServer, [000009A3CC608A40][000009A3CC570000 50] LinuxArm64Server, [000009A3CC607540][000009A3CC575000 50] Android, [000009A3CC601880][000009A3CC577800 50] Android_Preview_OpenGL, [000009A3CC609840][000009A3CC57A000 50] Android_Preview_Vulkan, [000009A3CC604B40][000009A3CC57C800 50] Android_Low, [000009A3CC607A80][000009A3CC672800 50] Android_Mid, [000009A3CC606740][000009A3CC6A0000 50] Android_High, [000009A3CC605780][000009A3CC6A5000 50] Android_Default, [000009A3CC606900][000009A3CC6A7800 50] Android_Adreno4xx, [000009A3CC608340][000009A3CC6AA000 50] Android_Adreno5xx_Low, [000009A3CC606E40][000009A3CC6AC800 50] Android_Adreno5xx, [000009A3CC607000][000009A3CC572800 50] Android_Adreno6xx, [000009A3CC605B00][000009A3CC6B0000 50] Android_Adreno6xx_Vulkan, [000009A3CC605940][000009A3CC6B5000 50] Android_Adreno7xx, [000009A3CC607E00][000009A3CC6B7800 50] Android_Adreno7xx_Vulkan, [000009A3CC604980][000009A3CC6BA000 50] Android_Mali_T6xx, [000009A3CC608DC0][000009A3CC6BC800 50] Android_Mali_T7xx, [000009A3CC606580][000009A3CC6A2800 50] Android_Mali_T8xx, [000009A3CC609D80][000009A3CC6C0000 50] Android_Mali_G71, [000009A3CC6047C0][000009A3CC6C5000 50] Android_Mali_G72, [000009A3CC609F40][000009A3CC6C7800 50] Android_Mali_G72_Vulkan, [000009A3CC604600][000009A3CC6CA000 50] Android_Mali_G76, [000009A3CC60A100][000009A3CC6CC800 50] Android_Mali_G76_Vulkan, [000009A3CC6094C0][000009A3CC6B2800 50] Android_Mali_G77, [000009A3CC606C80][000009A3CC6D0000 50] Android_Mali_G77_Vulkan, [000009A3CC607700][000009A3CC6D5000 50] Android_Mali_G78, [000009A3CC609680][000009A3CC6D7800 50] Android_Mali_G78_Vulkan, [000009A3CC60AD40][000009A3CC6DA000 50] Android_Mali_G710, [000009A3CC608180][000009A3CC6DC800 50] Android_Mali_G710_Vulkan, [000009A3CC60AF00][000009A3CC6C2800 50] Android_Xclipse_920, [000009A3CC60A2C0][000009A3CC6E0000 50] Android_Xclipse_920_Vulkan, [000009A3CC60B0C0][000009A3CC6E5000 50] Android_Vulkan_SM5, [000009A3CC606AC0][000009A3CC6E7800 50] Android_PowerVR_G6xxx, [000009A3CC608500][000009A3CC6EA000 50] Android_PowerVR_GT7xxx, [000009A3CC603B80][000009A3CC6EC800 50] Android_PowerVR_GE8xxx, [000009A3CC60BD00][000009A3CC6D2800 50] Android_PowerVR_GM9xxx, [000009A3CC601C00][000009A3CC6F0000 50] Android_PowerVR_GM9xxx_Vulkan, [000009A3CC60BEC0][000009A3CC6F5000 50] Android_TegraK1, [000009A3CC6063C0][000009A3CC6F7800 50] Android_Unknown_Vulkan, [000009A3CC60C080][000009A3CC6FA000 50] Oculus_Quest, [000009A3CC607C40][000009A3CC6FC800 50] Oculus_Quest2, [000009A3CC60A640][000009A3CC6E2800 50] HoloLens, 
+[2022.06.30-01.42.05:555][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.30-01.42.05:558][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.06.30-01.42.05:656][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.30-01.42.05:856][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.30-01.42.05:856][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.30-01.42.05:856][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.30-01.42.05:856][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.30-01.42.05:856][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.30-01.42.05:896][  0]LogNetVersion: Lyttleton_Tunnel 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1267122416)
+[2022.06.30-01.42.06:388][  0]LogSlate: Border
+[2022.06.30-01.42.06:388][  0]LogSlate: BreadcrumbButton
+[2022.06.30-01.42.06:388][  0]LogSlate: Default
+[2022.06.30-01.42.06:388][  0]LogSlate: Icons.Save
+[2022.06.30-01.42.06:388][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.30-01.42.06:388][  0]LogSlate: ListView
+[2022.06.30-01.42.06:388][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.30-01.42.06:388][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.30-01.42.06:388][  0]LogSlate: TableView.DarkRow
+[2022.06.30-01.42.06:388][  0]LogSlate: TableView.Row
+[2022.06.30-01.42.06:388][  0]LogSlate: TreeView
+[2022.06.30-01.42.06:831][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.06:918][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.06:918][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.07:144][  0]LogUObjectArray: 20660 objects as part of root set at end of initial load.
+[2022.06.30-01.42.07:144][  0]LogUObjectAllocator: 5612248 out of 0 bytes used by permanent object pool.
+[2022.06.30-01.42.07:144][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.30-01.42.07:769][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FB30260445CDA748779A969407BACB57 | Instance: E90BB448417DBA6027B0AABBED340F49 (ENCI-LAB-VR1-11424).
+[2022.06.30-01.42.07:893][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.30-01.42.07:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.30-01.42.07:924][  0]LogPython: Using Python 3.9.7
+[2022.06.30-01.42.09:020][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.09:027][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.09:033][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.09:051][  0]LogUProjectInfo: Found projects:
+[2022.06.30-01.42.09:537][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.30-01.42.09:556][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.30-01.42.09:581][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.30-01.42.09:581][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.30-01.42.09:926][  0]LogCollectionManager: Loaded 0 collections in 0.002978 seconds
+[2022.06.30-01.42.10:014][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Collections/' took 0.00s
+[2022.06.30-01.42.10:014][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Developers/Administrator/Collections/' took 0.00s
+[2022.06.30-01.42.10:014][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Collections/' took 0.00s
+[2022.06.30-01.42.10:329][  0]LogEngine: Initializing Engine...
+[2022.06.30-01.42.10:338][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-8609FF13
+[2022.06.30-01.42.10:339][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.30-01.42.10:341][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.30-01.42.10:980][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.30-01.42.10:980][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.42.10:989][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.42.11:012][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.30-01.42.11:013][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.30-01.42.11:029][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.30-01.42.11:034][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.30-01.42.11:034][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.30-01.42.11:035][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.30-01.42.11:035][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-01.42.11:035][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-01.42.11:035][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-01.42.11:035][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-01.42.11:035][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-01.42.11:035][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-01.42.11:043][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-01.42.11:085][  0]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-01.42.11:085][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-01.42.11:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-01.42.11:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-01.42.11:108][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.30-01.42.11:108][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.30-01.42.11:110][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.30-01.42.11:110][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.30-01.42.11:110][  0]LogInit: FAudioDevice initialized.
+[2022.06.30-01.42.11:110][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.30-01.42.11:110][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.30-01.42.11:110][  0]LogInit: Texture streaming: Enabled
+[2022.06.30-01.42.11:139][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.30-01.42.11:147][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.30-01.42.11:147][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={73BF34A7-4291-C189-F95E-2696A003872F}
+[2022.06.30-01.42.11:173][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.30-01.42.11:180][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.30-01.42.11:180][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: Lyttleton_TunnelEditor Win64 Development
+[2022.06.30-01.42.12:139][  0]LogLiveCoding: Display: First instance in process group "UE_Lyttleton_Tunnel_0xab4472e9", spawning console
+[2022.06.30-01.42.12:139][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.30-01.42.12:139][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.30-01.42.12:195][  0]LogInit: Transaction tracking system initialized
+[2022.06.30-01.42.12:259][  0]BlueprintLog: New page: Editor Load
+[2022.06.30-01.42.12:415][  0]LocalizationService: Localization service is disabled
+[2022.06.30-01.42.12:454][  0]TimingProfiler: Initialize
+[2022.06.30-01.42.12:454][  0]TimingProfiler: OnSessionChanged
+[2022.06.30-01.42.12:454][  0]LoadingProfiler: Initialize
+[2022.06.30-01.42.12:454][  0]LoadingProfiler: OnSessionChanged
+[2022.06.30-01.42.12:454][  0]NetworkingProfiler: Initialize
+[2022.06.30-01.42.12:454][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.30-01.42.12:454][  0]MemoryProfiler: Initialize
+[2022.06.30-01.42.12:454][  0]MemoryProfiler: OnSessionChanged
+[2022.06.30-01.42.13:261][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/' took 0.00s
+[2022.06.30-01.42.13:261][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.30-01.42.13:540][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.30-01.42.13:542][  0]SourceControl: Source control is disabled
+[2022.06.30-01.42.13:542][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.276
+[2022.06.30-01.42.13:542][  0]Cmd: MAP LOAD FILE="D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.30-01.42.13:543][  0]LightingResults: New page: Lighting Build
+[2022.06.30-01.42.13:548][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-01.42.13:548][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-01.42.13:548][  0]MapCheck: New page: Map Check
+[2022.06.30-01.42.13:548][  0]LightingResults: New page: Lighting Build
+[2022.06.30-01.42.13:553][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-01.42.13:556][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.30-01.42.13:589][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-01.42.13:589][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-01.42.13:589][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-01.42.13:590][  0]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-01.42.13:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.30-01.42.13:608][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.06.30-01.42.13:608][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.30-01.42.13:609][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.336ms to complete.
+[2022.06.30-01.42.13:609][  0]LogFileHelpers: Loading map 'Lyttleton_Tunnel_Level' took 0.067
+[2022.06.30-01.42.13:621][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.356
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: ================================================
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.30-01.42.13:622][  0]LogShaderCompilers: Display: ================================================
+[2022.06.30-01.42.13:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.42.13:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.42.13:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.42.13:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-01.42.13:880][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:880][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:886][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:886][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:892][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:892][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:898][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:898][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:909][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:909][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:916][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:916][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:923][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:923][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:929][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:929][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:934][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:934][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.13:939][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.30-01.42.13:939][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.30-01.42.14:192][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.30-01.42.14:194][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.30-01.42.14:196][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.30-01.42.14:203][  0]LogSlate: Took 0.005772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.30-01.42.14:253][  0]LogViewport: Scene viewport resized to 1217x877, mode Windowed.
+[2022.06.30-01.42.14:462][  0]LogStall: Startup...
+[2022.06.30-01.42.14:464][  0]LogStall: Startup complete.
+[2022.06.30-01.42.14:472][  0]LogLoad: (Engine Initialization) Total time: 21.21 seconds
+[2022.06.30-01.42.14:472][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.30-01.42.14:482][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2022.06.30-01.42.14:482][  0]LogSteamVRInputDevice: Display: Action Manifest Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.30-01.42.14:482][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.30-01.42.14:482][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.30-01.42.14:582][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.06.30-01.42.14:583][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [11424][application.generated.ue.lyttleton_tunnel-20280985.unrealeditor.exe] identified to SteamVR: VRApplicationError_None
+[2022.06.30-01.42.14:583][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:584][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.06.30-01.42.14:585][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Action Manifest Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.30-01.42.14:586][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.30-01.42.14:587][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings
+[2022.06.30-01.42.14:593][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.06.30-01.42.14:593][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [11424][application.generated.ue.lyttleton_tunnel-20280985.unrealeditor.exe] identified to SteamVR: VRApplicationError_None
+[2022.06.30-01.42.14:593][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.06.30-01.42.14:594][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.06.30-01.42.14:595][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.06.30-01.42.14:655][  0]LogAssetRegistry: Asset discovery search completed in 9.6487 seconds
+[2022.06.30-01.42.14:686][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.30-01.42.14:710][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.30-01.44.00:178][623]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.281 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.30-01.52.47:758][181]LogViewport: Scene viewport resized to 384x277, mode Windowed.
+[2022.06.30-01.52.56:440][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC0E1A60
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC346250
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC0E1670
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC345E90
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC0E1D30
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAD8185070
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC0E18E0
+[2022.06.30-01.52.56:441][156]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAEC0E19D0
+[2022.06.30-01.52.56:490][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8D2729E0
+[2022.06.30-01.52.56:495][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0x94310f80 unVertexCount 10289 rIndexData 0x94140080 unTriangleCount 13966 diffuseTextureId 0
+[2022.06.30-01.52.56:503][162]LogMaterial: Display: Missing cached shadermap for M_DefaultDevice in PCD3D_SM5, Default, SM5 (DDC key hash: 5998A1E187C08B9E9C2615E225BD9DF1B49A3B7F), compiling. 
+[2022.06.30-01.52.56:538][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:538][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0x9babd8f0 unVertexCount 145 rIndexData 0x97c009a0 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-01.52.56:538][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:538][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0x97c93090 unVertexCount 49 rIndexData 0xebec2170 unTriangleCount 60 diffuseTextureId 0
+[2022.06.30-01.52.56:538][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:538][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0x9b456380 unVertexCount 210 rIndexData 0xec0e8e30 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-01.52.56:538][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:538][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0x97a00260 unVertexCount 210 rIndexData 0xd2fa12a0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-01.52.56:539][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0x9ba43970 unVertexCount 145 rIndexData 0x97c02930 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-01.52.56:539][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0x980aa200 unVertexCount 515 rIndexData 0xf764d770 unTriangleCount 836 diffuseTextureId 0
+[2022.06.30-01.52.56:539][162]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0x9ba79210 unVertexCount 636 rIndexData 0xec126aa0 unTriangleCount 1152 diffuseTextureId 0
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRTextureLoader::FreeResource_Internal: Freeing texture resource 000001EA8D2729E0
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC0E1A60
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC346250
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC0E1670
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC345E90
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC0E1D30
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAD8185070
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC0E18E0
+[2022.06.30-01.52.56:539][162]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAEC0E19D0
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: ================================================
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Shaders Compiled: 4
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 1.95 s
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Job life time (pending + execution): average 2.04 s, max 2.04
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.04 s
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Average processing rate: 0.49 jobs/sec
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Effective parallelization: 0.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.06.30-01.52.58:593][368]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.06.30-01.52.58:594][368]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.06.30-01.52.58:594][368]LogShaderCompilers: Display:                                             FDebugViewModePS - 100.00% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.06.30-01.52.58:594][368]LogShaderCompilers: Display: ================================================
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B855050
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B855260
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B854CC0
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B855080
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B855110
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B854F60
+[2022.06.30-01.53.02:474][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8D2729E0
+[2022.06.30-01.53.02:474][797]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0x94824450 unVertexCount 10289 rIndexData 0x944bb010 unTriangleCount 13966 diffuseTextureId 0
+[2022.06.30-01.53.02:475][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.53.02:475][797]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xf75facd0 unVertexCount 145 rIndexData 0x97c254b0 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-01.53.02:475][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.53.02:475][797]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0x97c93090 unVertexCount 49 rIndexData 0xebec3590 unTriangleCount 60 diffuseTextureId 0
+[2022.06.30-01.53.02:475][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.53.02:476][797]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0x8d5df5b0 unVertexCount 210 rIndexData 0x97a01270 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-01.53.02:476][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.53.02:476][797]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0x9b5b0c20 unVertexCount 210 rIndexData 0x94283960 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-01.53.02:476][797]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-01.53.02:476][797]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xf75f2760 unVertexCount 145 rIndexData 0x97c27440 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-01.53.02:484][798]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B854EA0
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0x97f42fa0 unVertexCount 515 rIndexData 0x94483180 unTriangleCount 836 diffuseTextureId 0
+[2022.06.30-01.53.02:484][798]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA9B854A50
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0x9bb82ad0 unVertexCount 636 rIndexData 0x945444c0 unTriangleCount 1152 diffuseTextureId 0
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRTextureLoader::FreeResource_Internal: Freeing texture resource 000001EA8D2729E0
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B855050
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B855260
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B854CC0
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B855080
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B855110
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B854F60
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B854EA0
+[2022.06.30-01.53.02:484][798]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA9B854A50
+[2022.06.30-01.53.32:522][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.06.30-01.53.32:527][ 57]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.004015 seconds
+[2022.06.30-01.53.32:549][ 57]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lyttleton_Tunnel_Level_Auto1
+[2022.06.30-01.53.32:550][ 57]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level_Auto10B00EEBC4F398D67800F92934D6D2163.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Autosaves/Game/Lyttleton_Tunnel_Level_Auto1.umap'
+[2022.06.30-01.53.32:554][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lyttleton_Tunnel_Level' took 0.039
+[2022.06.30-01.53.32:554][ 57]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2022.06.30-01.53.45:851][511]LogEditorViewport: Clicking Background
+[2022.06.30-01.53.46:548][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.30-01.53.46:569][586]LogSavePackage: Moving output files for package: /Game/Lyttleton_Tunnel_Level
+[2022.06.30-01.53.46:570][586]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level5BCB235043ED572245936ABED6F6AE89.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Content/Lyttleton_Tunnel_Level.umap'
+[2022.06.30-01.53.46:586][586]LogFileHelpers: No new changes to save!
+[2022.06.30-01.53.46:599][586]AssetCheck: New page: Asset Save: Lyttleton_Tunnel_Level
+[2022.06.30-01.53.46:600][586]LogContentValidation: Display: Validating World /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level
+[2022.06.30-01.54.10:050][399]LogSlate: Took 0.005921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.30-01.54.10:059][399]LogSlate: Took 0.004305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.30-02.04.28:087][826]LogEditorViewport: Clicking Background
+[2022.06.30-02.04.30:736][121]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.30-02.04.30:736][121]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.30-02.04.30:737][121]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level:PersistentLevel.PlayerStart_0
+[2022.06.30-02.04.30:737][121]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.30-02.04.30:737][121]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level:PersistentLevel.PlayerStart_0
+[2022.06.30-02.04.30:737][121]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.30-02.04.32:039][276]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.30-02.04.32:039][276]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.06.30-02.04.32:040][276]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level:PersistentLevel.PlayerStart_1
+[2022.06.30-02.04.32:040][276]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.30-02.04.32:040][276]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level:PersistentLevel.PlayerStart_1
+[2022.06.30-02.04.32:041][276]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.30-02.04.38:564][ 50]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-02.04.38:571][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-02.04.38:571][ 50]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 2:04:38 am)
+[2022.06.30-02.04.38:575][ 50]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.30-02.04.38:575][ 50]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.30-02.04.38:575][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.04.39:118][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.542801s)
+[2022.06.30-02.04.39:118][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.542898s)
+[2022.06.30-02.04.39:118][ 50]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-02.04.39:118][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-02.04.39:119][ 50]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-02.04.39:119][ 50]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2022.06.30-02.04.39:126][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.30-02.04.39:127][ 50]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-02.04.39:127][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-02.04.39:127][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-02.04.39:127][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-02.04.39:127][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-02.04.39:127][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-02.04.39:129][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-02.04.39:160][ 50]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-02.04.39:160][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-02.04.39:160][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-02.04.39:160][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-02.04.39:161][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.30-02.04.39:161][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.30-02.04.39:162][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.30-02.04.39:162][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.30-02.04.39:162][ 50]LogInit: FAudioDevice initialized.
+[2022.06.30-02.04.39:162][ 50]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-02.04.39:176][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.04.39:176][ 50]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-02.04.39:220][ 50]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-02.04.39:228][ 50]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-14.04.39
+[2022.06.30-02.04.39:228][ 50]LogWorld: Bringing up level for play took: 0.008035
+[2022.06.30-02.04.39:230][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.06.30-02.04.39:244][ 50]PIE: Server logged in
+[2022.06.30-02.04.39:246][ 50]PIE: Play in editor total start time 0.675 seconds.
+[2022.06.30-02.04.39:282][ 52]LogRenderer: Warning: Resizing VR buffer to 1888 by 1048
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA97E8A2B0
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA97E89EF0
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA97E8A490
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA97E89EC0
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94F2A0D0
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8D2729E0
+[2022.06.30-02.04.39:313][ 52]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0x94fa30b0 unVertexCount 10289 rIndexData 0x94d63010 unTriangleCount 13966 diffuseTextureId 0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xf75f2760 unVertexCount 145 rIndexData 0x944c2200 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0x97c93090 unVertexCount 49 rIndexData 0x8dd53480 unTriangleCount 60 diffuseTextureId 0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0x94886250 unVertexCount 210 rIndexData 0x94f64010 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.39:315][ 52]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0x94e96020 unVertexCount 210 rIndexData 0x94afa130 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.04.39:908][ 53]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94F2A8E0
+[2022.06.30-02.04.39:908][ 53]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xf75fd2f0 unVertexCount 145 rIndexData 0x944c6120 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.04.39:908][ 53]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94F2A6D0
+[2022.06.30-02.04.39:908][ 53]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0x94994480 unVertexCount 515 rIndexData 0x94d913c0 unTriangleCount 836 diffuseTextureId 0
+[2022.06.30-02.04.39:908][ 53]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94F2A6A0
+[2022.06.30-02.04.39:908][ 53]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb8e506f0 unVertexCount 636 rIndexData 0x950f5510 unTriangleCount 1152 diffuseTextureId 0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRTextureLoader::FreeResource_Internal: Freeing texture resource 000001EA8D2729E0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA97E8A2B0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA97E89EF0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA97E8A490
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA97E89EC0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94F2A0D0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94F2A8E0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94F2A6D0
+[2022.06.30-02.04.39:909][ 53]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94F2A6A0
+[2022.06.30-02.04.39:999][ 63]LogHMD: Warning: SteamVR Compositor had an error on present (108)
+[2022.06.30-02.04.54:076][319]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-02.04.54:101][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.04.54:101][319]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.04.54:139][319]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-02.04.54:176][319]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-02.04.54:177][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.04.54:191][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-02.04.54:193][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.04.54:199][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-02.04.54:199][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.30-02.04.54:200][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.30-02.04.54:207][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-02.04.54:242][320]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.30-02.04.55:999][529]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-02.04.56:006][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-02.04.56:006][529]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 2:04:56 am)
+[2022.06.30-02.04.56:006][529]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.04.56:540][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.534402s)
+[2022.06.30-02.04.56:540][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.534485s)
+[2022.06.30-02.04.56:541][529]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-02.04.56:541][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-02.04.56:541][529]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-02.04.56:541][529]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2022.06.30-02.04.56:548][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-02.04.56:550][529]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-02.04.56:550][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-02.04.56:550][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-02.04.56:550][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-02.04.56:550][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-02.04.56:550][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-02.04.56:552][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-02.04.56:582][529]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-02.04.56:582][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-02.04.56:582][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-02.04.56:582][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-02.04.56:583][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.30-02.04.56:583][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.30-02.04.56:584][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.30-02.04.56:584][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.30-02.04.56:584][529]LogInit: FAudioDevice initialized.
+[2022.06.30-02.04.56:584][529]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-02.04.56:599][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.04.56:599][529]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-02.04.56:654][529]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-02.04.56:662][529]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-14.04.56
+[2022.06.30-02.04.56:662][529]LogWorld: Bringing up level for play took: 0.007912
+[2022.06.30-02.04.56:664][529]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.30-02.04.56:668][529]PIE: Server logged in
+[2022.06.30-02.04.56:670][529]PIE: Play in editor total start time 0.663 seconds.
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B339A0
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33A30
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B34330
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B34150
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33A60
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33FD0
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33B20
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33C10
+[2022.06.30-02.04.56:714][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8D2729E0
+[2022.06.30-02.04.56:714][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xb964f750 unVertexCount 10289 rIndexData 0xb96ede80 unTriangleCount 13966 diffuseTextureId 0
+[2022.06.30-02.04.56:716][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:716][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xf7601f30 unVertexCount 145 rIndexData 0x94bcfb80 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.04.56:716][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:716][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0x97c93090 unVertexCount 49 rIndexData 0x94d648d0 unTriangleCount 60 diffuseTextureId 0
+[2022.06.30-02.04.56:716][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:716][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0x941c6d80 unVertexCount 210 rIndexData 0xf7a520b0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.04.56:716][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:716][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0x9498ec40 unVertexCount 210 rIndexData 0x9b8ca0c0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.04.56:717][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xf75fbfe0 unVertexCount 145 rIndexData 0x94bcb610 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.04.56:717][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0x94427a20 unVertexCount 515 rIndexData 0x9b634d70 unTriangleCount 836 diffuseTextureId 0
+[2022.06.30-02.04.56:717][531]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb9419fe0 unVertexCount 636 rIndexData 0x95035460 unTriangleCount 1152 diffuseTextureId 0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRTextureLoader::FreeResource_Internal: Freeing texture resource 000001EA8D2729E0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B339A0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33A30
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B34330
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B34150
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33A60
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33FD0
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33B20
+[2022.06.30-02.04.56:717][531]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33C10
+[2022.06.30-02.04.59:806][804]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-02.04.59:829][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.04.59:829][804]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.04.59:864][804]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-02.04.59:906][804]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-02.04.59:907][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.04.59:919][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-02.04.59:921][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.04.59:927][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.30-02.04.59:929][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.30-02.04.59:935][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.30-02.04.59:967][805]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.30-02.05.04:224][177]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-02.05.04:231][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-02.05.04:232][177]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 2:05:04 am)
+[2022.06.30-02.05.04:232][177]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.05.04:772][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.540411s)
+[2022.06.30-02.05.04:772][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.540496s)
+[2022.06.30-02.05.04:772][177]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-02.05.04:772][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-02.05.04:773][177]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-02.05.04:773][177]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2022.06.30-02.05.04:779][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-02.05.04:780][177]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-02.05.04:780][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-02.05.04:780][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-02.05.04:780][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-02.05.04:781][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-02.05.04:781][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-02.05.04:782][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-02.05.04:812][177]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-02.05.04:812][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-02.05.04:812][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-02.05.04:812][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-02.05.04:813][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.06.30-02.05.04:813][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.06.30-02.05.04:814][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.06.30-02.05.04:814][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.06.30-02.05.04:814][177]LogInit: FAudioDevice initialized.
+[2022.06.30-02.05.04:814][177]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-02.05.04:828][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.05.04:828][177]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-02.05.04:871][177]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-02.05.04:879][177]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-14.05.04
+[2022.06.30-02.05.04:879][177]LogWorld: Bringing up level for play took: 0.007864
+[2022.06.30-02.05.04:881][177]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.06.30-02.05.04:885][177]PIE: Server logged in
+[2022.06.30-02.05.04:886][177]PIE: Play in editor total start time 0.655 seconds.
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EAD8185070
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B32DA0
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B330A0
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33550
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B335B0
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B32F50
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33490
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94B33700
+[2022.06.30-02.05.04:930][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8D2729E0
+[2022.06.30-02.05.04:930][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xb993bc70 unVertexCount 10289 rIndexData 0x94966bf0 unTriangleCount 13966 diffuseTextureId 0
+[2022.06.30-02.05.04:931][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xf7601f30 unVertexCount 145 rIndexData 0x94bcf530 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0x94c5c550 unVertexCount 49 rIndexData 0x94d69500 unTriangleCount 60 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0x950f5510 unVertexCount 210 rIndexData 0xf7a520b0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0x941c6d80 unVertexCount 210 rIndexData 0x94d281b0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xf7603240 unVertexCount 145 rIndexData 0x94bceee0 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xb97f6100 unVertexCount 515 rIndexData 0x9b62fd30 unTriangleCount 836 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb97db0b0 unVertexCount 636 rIndexData 0xb985c240 unTriangleCount 1152 diffuseTextureId 0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRTextureLoader::FreeResource_Internal: Freeing texture resource 000001EA8D2729E0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EAD8185070
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B32DA0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B330A0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33550
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B335B0
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B32F50
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33490
+[2022.06.30-02.05.04:932][179]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94B33700
+[2022.06.30-02.05.50:789][281]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-02.05.50:808][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.05.50:808][281]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.05.50:850][281]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-02.05.50:890][281]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-02.05.50:890][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.05.50:899][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-02.05.50:900][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.05.50:907][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.30-02.05.50:908][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.30-02.05.50:915][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.30-02.05.50:951][282]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.30-02.05.55:772][839]Cmd: DELETE
+[2022.06.30-02.05.55:772][839]Cmd: ACTOR DELETE
+[2022.06.30-02.05.55:791][839]LogEditorActor: Deleted Actor: PlayerStart
+[2022.06.30-02.05.55:798][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.30-02.05.55:800][839]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.06.30-02.05.56:893][969]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.30-02.05.56:900][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.30-02.05.56:901][969]PIE: New page: PIE session: Lyttleton_Tunnel_Level (1/07/2022, 2:05:56 am)
+[2022.06.30-02.05.56:901][969]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.05.57:435][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.533926s)
+[2022.06.30-02.05.57:435][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level to /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level (0.534012s)
+[2022.06.30-02.05.57:435][969]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.30-02.05.57:435][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.30-02.05.57:435][969]LogAIModule: Creating AISystem for world Lyttleton_Tunnel_Level
+[2022.06.30-02.05.57:435][969]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2022.06.30-02.05.57:442][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.30-02.05.57:442][969]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.30-02.05.57:442][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.30-02.05.57:442][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.30-02.05.57:443][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.30-02.05.57:443][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.30-02.05.57:443][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.30-02.05.57:445][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.30-02.05.57:475][969]LogAudioMixer: Display: Using Audio Hardware Device HTC-VIVE (NVIDIA High Definition Audio)
+[2022.06.30-02.05.57:475][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.30-02.05.57:475][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.30-02.05.57:475][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.30-02.05.57:476][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.06.30-02.05.57:476][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.06.30-02.05.57:477][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.06.30-02.05.57:477][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.06.30-02.05.57:477][969]LogInit: FAudioDevice initialized.
+[2022.06.30-02.05.57:478][969]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lyttleton_Tunnel_Level'.
+[2022.06.30-02.05.57:491][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.05.57:491][969]LogViewport: Scene viewport resized to 3704x2056, mode Windowed.
+[2022.06.30-02.05.57:541][969]LogLoad: Game class is 'GameModeBase'
+[2022.06.30-02.05.57:549][969]LogWorld: Bringing World /Game/UEDPIE_0_Lyttleton_Tunnel_Level.Lyttleton_Tunnel_Level up for play (max tick rate 0) at 2022.06.30-14.05.57
+[2022.06.30-02.05.57:549][969]LogWorld: Bringing up level for play took: 0.007673
+[2022.06.30-02.05.57:551][969]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.06.30-02.05.57:555][969]PIE: Server logged in
+[2022.06.30-02.05.57:557][969]PIE: Play in editor total start time 0.656 seconds.
+[2022.06.30-02.05.57:598][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8DF915C0
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8DF91560
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8DF91920
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8DF91470
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8DF91620
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8DF91410
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94149CE0
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA94149E60
+[2022.06.30-02.05.57:599][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Creating new TSharedPtr for resource 000001EA8D2729E0
+[2022.06.30-02.05.57:599][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xb9cdb010 unVertexCount 10289 rIndexData 0xb9a53ef0 unTriangleCount 13966 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xf7601f30 unVertexCount 145 rIndexData 0x94bcfb80 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0x94873c80 unVertexCount 49 rIndexData 0x94dcc6a0 unTriangleCount 60 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0x941c6d80 unVertexCount 210 rIndexData 0xf7a520b0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0x950f5510 unVertexCount 210 rIndexData 0x94d281b0 unTriangleCount 392 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xf75fbfe0 unVertexCount 145 rIndexData 0x94bce890 unTriangleCount 264 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0x9b5d3a70 unVertexCount 515 rIndexData 0xd2c7fcf0 unTriangleCount 836 diffuseTextureId 0
+[2022.06.30-02.05.57:601][971]LogSteamVR: TSteamVRResourceLoader::WrapResource: Returning existing resource 000001EA8D2729E0
+[2022.06.30-02.05.57:601][971]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb97db0b0 unVertexCount 636 rIndexData 0xb985c240 unTriangleCount 1152 diffuseTextureId 0
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRTextureLoader::FreeResource_Internal: Freeing texture resource 000001EA8D2729E0
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA8DF915C0
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA8DF91560
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA8DF91920
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA8DF91470
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA8DF91620
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA8DF91410
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94149CE0
+[2022.06.30-02.05.57:602][971]LogSteamVR: FSteamVRModelLoader::FreeResource_Internal: Freeing render model instance 000001EA94149E60
+[2022.06.30-02.06.04:860][617]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.30-02.06.04:881][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.30-02.06.04:881][617]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lyttleton_Tunnel_Level
+[2022.06.30-02.06.04:917][617]LogSlate: Window 'Lyttleton_Tunnel Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.2-20280985+++UE5+Release-5.0, Driver: lighthouse, Serial: LHR-8609FF13, HMD Device: HTC Vive. MV, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2022.06.30-02.06.04:940][617]LogWorld: UWorld::CleanupWorld for Lyttleton_Tunnel_Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.30-02.06.04:940][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.06.04:950][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.30-02.06.04:952][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.30-02.06.04:958][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.30-02.06.04:958][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.30-02.06.04:960][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.30-02.06.04:966][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-02.06.04:989][618]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.30-02.06.41:441][938]Cmd: TRANSACTION UNDO
+[2022.06.30-02.06.41:441][938]LogEditorTransaction: Undo Move Elements
+[2022.06.30-02.06.50:162][903]LogEditorViewport: Clicking Background
+[2022.06.30-02.07.15:413][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.30-02.07.15:437][154]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lyttleton_Tunnel_Level_Auto2
+[2022.06.30-02.07.15:438][154]LogSavePackage: Moving 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Lyttleton_Tunnel_Level_Auto2AFD7F16545FA9B53A4EF6D9595AEE527.tmp' to 'D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Saved/Autosaves/Game/Lyttleton_Tunnel_Level_Auto2.umap'
+[2022.06.30-02.07.15:443][154]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lyttleton_Tunnel_Level' took 0.036
+[2022.06.30-02.07.15:443][154]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.06.30-02.10.44:724][ 66]MapCheck: New page: Map Check
+[2022.06.30-02.10.44:738][ 66]LogSlate: Took 0.004256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.30-02.10.44:739][ 66]LightingResults: New page: Lighting Build - 1/07/2022, 2:10:44 am
+[2022.06.30-02.10.44:870][ 66]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.30-02.10.44:928][ 66]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.30-02.10.44:945][ 66]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.30-02.10.45:467][ 66]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.30-02.10.45:467][ 66]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11424
+[2022.06.30-02.10.46:997][ 66]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.06.30-02.10.46:997][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.30-02.10.46:997][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.30-02.10.46:997][ 66]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.30-02.10.46:997][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.30-02.10.46:997][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.30-02.10.47:100][ 66]LogEditorBuildUtils: Build time 0:02
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: ================================================
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Total job queries 6, among them cache hits 2 (33.33%)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Shaders Compiled: 4
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Job execution time: average 2.08 s, max 2.16 s
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Job life time (pending + execution): average 2.17 s, max 2.25
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.25 s
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Average processing rate: 1.78 jobs/sec
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Effective parallelization: 1.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.84% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.60% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                             FDebugViewModeVS - 24.08% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.47% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.06.30-02.10.47:104][ 66]LogShaderCompilers: Display: ================================================
+[2022.06.30-02.10.47:140][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.30-02.10.51:075][306]Job is a success!
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.072s
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:          0: 5.4% covering 100.0% of volume
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:          1: 37.8% covering 10.9% of volume
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:          2: 56.8% covering 0.3% of volume
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.30-02.10.51:374][307]LogVolumetricLightmapImport:          Lyttleton_Tunnel_Level 			 148 bricks 	 100.0% (Persistent Level)
+[2022.06.30-02.10.51:505][307]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.06.30-02.10.51:507][307]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.06.30-02.10.51:509][307]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.06.30-02.10.51:530][307]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.06.30-02.10.51:604][307]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:ShadowMapTexture2D_2 (BGRA8, 1024X256 X1X1) (Required Memory Estimate: 6.666698 MB), EncodeSpeed: Fast
+[2022.06.30-02.10.51:607][307]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:ShadowMapTexture2D_3 (G8, 64X64 X1X1) (Required Memory Estimate: 0.02604 MB), EncodeSpeed: Fast
+[2022.06.30-02.10.51:678][307]Lightmass on ENCI-LAB-VR1: 3.17 sec total, 210 ms importing, 36 ms setup, 312 ms photons, 2.59 sec processing, 0 us extra exporting [97/97 mappings]. Threads: 38.8 sec total, 20.5 sec processing.
+[2022.06.30-02.10.51:734][307]LogStaticLightingSystem: Lyttleton_Tunnel_Level_BuiltData storing lightmap data for 97 meshes in 3 LightmapResourceClusters (32.3 Meshes per cluster).
+[2022.06.30-02.10.51:758][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.30-02.10.51:767][307]LogStaticLightingSystem: Illumination: 6.97 sec (138 ms encoding lightmaps, 59 ms encoding shadowmaps)
+[2022.06.30-02.10.51:767][307]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.30-02.10.51:767][307]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.06.30-02.10.55:010][307]DumpUnbuiltLightIteractions
+[2022.06.30-02.10.55:010][307]Lights with unbuilt interactions: 0
+[2022.06.30-02.10.55:010][307]
+[2022.06.30-02.10.55:010][307]Primitives with unbuilt interactions: 0
+[2022.06.30-02.10.55:052][308]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.30-02.10.55:052][308]MapCheck: New page: Lyttleton_Tunnel_Level - 1/07/2022, 2:10:55 am
+[2022.06.30-02.10.55:054][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.091ms to complete.
+[2022.06.30-02.11.01:054][ 22]LogSlate: Window 'Message Log' being destroyed
+[2022.06.30-02.11.01:059][ 22]LogSlate: Window 'Message Log' being destroyed
+[2022.06.30-02.13.42:097][265]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.30-02.13.42:121][265]LogSlate: Took 0.005861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.30-02.13.42:121][265]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.30-02.13.42:138][265]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.30-02.13.42:163][265]LogViewport: Scene viewport resized to 1127x812, mode Windowed.
+[2022.06.30-02.13.42:192][266]LogViewport: Scene viewport resized to 669x482, mode Windowed.
+[2022.06.30-02.13.42:212][267]LogViewport: Scene viewport resized to 637x458, mode Windowed.
+[2022.06.30-02.13.42:240][268]LogViewport: Scene viewport resized to 614x442, mode Windowed.
+[2022.06.30-02.13.42:261][269]LogViewport: Scene viewport resized to 607x437, mode Windowed.
+[2022.06.30-02.13.42:282][270]LogViewport: Scene viewport resized to 606x436, mode Windowed.
+[2022.06.30-02.14.05:147][699]LogViewport: Scene viewport resized to 726x523, mode Windowed.
+[2022.06.30-02.14.05:185][700]LogViewport: Scene viewport resized to 1028x741, mode Windowed.
+[2022.06.30-02.14.05:205][701]LogViewport: Scene viewport resized to 1121x808, mode Windowed.
+[2022.06.30-02.14.05:240][702]LogViewport: Scene viewport resized to 1199x864, mode Windowed.
+[2022.06.30-02.14.05:265][703]LogViewport: Scene viewport resized to 1215x876, mode Windowed.
+[2022.06.30-02.14.05:286][704]LogViewport: Scene viewport resized to 1217x877, mode Windowed.
+[2022.06.30-02.14.28:139][ 10]LogSlate: Window 'Message' being destroyed
+[2022.06.30-02.14.28:150][ 10]Message dialog closed, result: Ok, title: Message, text: bForceNoPrecomputedLighting is now enabled, build lighting once to propagate the change (will remove existing precomputed lighting data).
+[2022.06.30-02.14.57:774][478]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.30-02.14.57:905][478]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.06.30-02.15.15:560][325]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.30-02.15.15:565][325]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.30-02.17.48:115][553]MapCheck: New page: Map Check
+[2022.06.30-02.17.48:125][553]LightingResults: New page: Lighting Build - 1/07/2022, 2:17:48 am
+[2022.06.30-02.17.48:135][553]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.30-02.17.48:139][553]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.30-02.17.48:139][553]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.30-02.17.48:140][553]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.30-02.17.48:140][553]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11424
+[2022.06.30-02.17.50:197][553]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.06.30-02.17.50:197][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.30-02.17.50:197][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.30-02.17.50:197][553]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.30-02.17.50:197][553]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.30-02.17.50:197][553]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.30-02.17.50:275][553]LogEditorBuildUtils: Build time 0:02
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: ================================================
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Total job queries 6, among them cache hits 2 (33.33%)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Shaders Compiled: 4
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Job execution time: average 2.08 s, max 2.16 s
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Job life time (pending + execution): average 2.17 s, max 2.25
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.25 s
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Average processing rate: 1.78 jobs/sec
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Effective parallelization: 1.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.06.30-02.17.50:279][553]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.84% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2022.06.30-02.17.50:280][553]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.60% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.06.30-02.17.50:280][553]LogShaderCompilers: Display:                                             FDebugViewModeVS - 24.08% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2022.06.30-02.17.50:280][553]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.47% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.06.30-02.17.50:280][553]LogShaderCompilers: Display: ================================================
+[2022.06.30-02.17.50:314][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.30-02.17.53:110][721]Job is a success!
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.116s
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:          1: 7.5% covering 5.5% of volume
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:          2: 90.4% covering 1.0% of volume
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.30-02.17.53:442][722]LogVolumetricLightmapImport:          Lyttleton_Tunnel_Level 			 374 bricks 	 100.0% (Persistent Level)
+[2022.06.30-02.17.53:462][722]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.06.30-02.17.53:464][722]LogTexture: Display: Building textures: /Game/Lyttleton_Tunnel_Level_BuiltData.Lyttleton_Tunnel_Level_BuiltData:ShadowMapTexture2D_4 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.06.30-02.17.53:521][722]Lightmass on ENCI-LAB-VR1: 1.87 sec total, 202 ms importing, 19 ms setup, 70 ms photons, 1.56 sec processing, 0 us extra exporting [1/1 mappings]. Threads: 23.4 sec total, 511 ms processing.
+[2022.06.30-02.17.53:596][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.30-02.17.53:675][722]LogStaticLightingSystem: Illumination: 5.44 sec (11 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2022.06.30-02.17.53:675][722]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.06.30-02.17.53:675][722]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.06.30-02.17.57:205][722]DumpUnbuiltLightIteractions
+[2022.06.30-02.17.57:205][722]Lights with unbuilt interactions: 0
+[2022.06.30-02.17.57:205][722]
+[2022.06.30-02.17.57:205][722]Primitives with unbuilt interactions: 0
+[2022.06.30-02.17.57:241][722]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.06.30-02.18.04:899][722]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [6126ms] waiting for h/w. InstanceID=1
+[2022.06.30-02.18.04:899][722]LogD3D12RHI: Error: Driver crashed while creating texture: 256x128x1 (0x00000035) with 1 mips
+[2022.06.30-02.18.04:899][722]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.30-02.18.04:899][722]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.06.30-02.18.04:901][722]LogWindows: Error: === Critical error: ===
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 934] 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: Rendering thread exception:
+[2022.06.30-02.18.04:901][722]LogWindows: Error: Assertion failed: !TrackedAllocationData.Contains(InAllocation) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.cpp] [Line: 1515] 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69c8398d UnrealEditor-D3D12RHI.dll!FD3D12Adapter::TrackAllocationData() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.cpp:1515]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69d306ec UnrealEditor-D3D12RHI.dll!FD3D12ResourceLocation::UpdateStandAloneStats() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Resources.cpp:983]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69d033ac UnrealEditor-D3D12RHI.dll!FD3D12ResourceLocation::AsStandAlone() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Resources.cpp:1020]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69ca8e05 UnrealEditor-D3D12RHI.dll!FD3D12PoolAllocator::AllocateResource() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12PoolAllocator.cpp:374]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69c55759 UnrealEditor-D3D12RHI.dll!FD3D12TextureAllocatorPool::AllocateTexture() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Allocation.cpp:1685]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69d291e3 UnrealEditor-D3D12RHI.dll!SafeCreateTexture2D() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.cpp:777]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69cfd288 UnrealEditor-D3D12RHI.dll!<lambda_07b3b142a6e253b69a842f27969c861c>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.cpp:1071]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69ce4bda UnrealEditor-D3D12RHI.dll!FD3D12DynamicRHI::CreateD3D12Texture2D<FD3D12BaseTexture2D>() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.cpp:1027]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd69d21175 UnrealEditor-D3D12RHI.dll!FD3D12DynamicRHI::RHICreateTexture2D_RenderThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.cpp:1446]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd9e8553a7 UnrealEditor-RenderCore.dll!FRenderTargetPool::FindFreeElementInternal() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderTargetPool.cpp:153]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd9e854ba8 UnrealEditor-RenderCore.dll!FRenderTargetPool::FindFreeElement() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderTargetPool.cpp:312]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd9e7a1073 UnrealEditor-RenderCore.dll!FRenderTargetPool::FindFreeElement() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h:118]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd8173a9c8 UnrealEditor-Renderer.dll!FSceneRenderer::AllocateAtlasedShadowDepthTargets() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\ShadowSetup.cpp:5368]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd8173e923 UnrealEditor-Renderer.dll!FSceneRenderer::AllocateShadowDepthTargets() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\ShadowSetup.cpp:5217]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd817631f8 UnrealEditor-Renderer.dll!FSceneRenderer::FinishInitDynamicShadows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\ShadowSetup.cpp:5826]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd816d2d62 UnrealEditor-Renderer.dll!FDeferredShadingSceneRenderer::InitViewsAfterPrepass() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneVisibility.cpp:5050]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd80bb6695 UnrealEditor-Renderer.dll!FDeferredShadingSceneRenderer::Render() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.cpp:2344]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd815753b0 UnrealEditor-Renderer.dll!CaptureSceneToScratchCubemap() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\ReflectionEnvironmentCapture.cpp:751]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd8159526b UnrealEditor-Renderer.dll!TEnqueueUniqueRenderCommandType<`CaptureSceneIntoScratchCubemap'::`4'::CaptureCommandName,<lambda_5cb1bf029c0babbf0c4cf05c492ea581> >::DoTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h:193]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd815aafea UnrealEditor-Renderer.dll!TGraphTask<TEnqueueUniqueRenderCommandType<`CaptureSceneIntoScratchCubemap'::`4'::CaptureCommandName,<lambda_5cb1bf029c0babbf0c4cf05c492ea581> > >::ExecuteTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h:975]
+[2022.06.30-02.18.04:901][722]LogWindows: Error: [Callstack] 0x00007ffd92db3a9d UnrealEditor-Core.dll!FNamedTaskTh
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:901][722]LogWindows: Error: 
+[2022.06.30-02.18.04:915][722]LogExit: Executing StaticShutdownAfterError
+[2022.06.30-02.18.04:917][722]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.06.30-02.18.04:917][722]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.06.30-02.18.04:917][722]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.06.30-02.18.04:919][722]LogThreadingWindows: Error: Runnable thread StallDetectorThread crashed.
+[2022.06.30-02.18.04:919][722]LogWindows: Error: HandleError re-entered.
+[2022.06.30-02.18.04:919][722]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.06.30-02.18.04:919][722]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.06.30-02.18.04:919][722]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.06.30-02.18.04:924][722]Log file closed, 06/30/22 14:18:04

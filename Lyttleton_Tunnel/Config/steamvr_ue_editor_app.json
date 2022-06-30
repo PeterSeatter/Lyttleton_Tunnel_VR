@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.lyttleton_tunnel-20280985.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Users/Administrator.ENCI-VR1.000/Desktop/Peter/Lyttleton_Tunnel_VR/Lyttleton_Tunnel/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Lyttleton_Tunnel-20280985 [UE Editor]"
+				}
+			}
+		}
+	]
+}
