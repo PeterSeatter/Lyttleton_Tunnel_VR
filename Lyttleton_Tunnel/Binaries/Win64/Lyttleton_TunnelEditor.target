@@ -29,42 +29,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidDeviceDetection.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidDeviceDetection.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidPlatformEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidPlatformEditor.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidRuntimeSettings.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidRuntimeSettings.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatform.pdb",
-			"Type": "SymbolFile"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/oo2tex_win64_2.9.5.dll",
 			"Type": "RequiredResource"
 		},
@@ -2797,27 +2761,11 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatASTC.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatASTC.pdb",
-			"Type": "SymbolFile"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatDXT.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatDXT.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatETC2.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatETC2.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -5197,6 +5145,42 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXRAR.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXRAR.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXREditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXREditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXRHMD.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXRHMD.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXRInput.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/Binaries/Win64/UnrealEditor-OpenXRInput.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -5285,6 +5269,42 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVR.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVR.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVREditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVREditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVRInput.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVRInput.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVRInputDevice.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UnrealEditor-SteamVRInputDevice.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -5367,10 +5387,6 @@
 	],
 	"RuntimeDependencies": [
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/ARM/Win64/astcenc-sse2.exe",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
 			"Type": "NonUFS"
 		},
@@ -5388,6 +5404,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll",
 			"Type": "NonUFS"
 		},
 		{
@@ -25831,6 +25851,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/OpenXR.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin",
 			"Type": "UFS"
 		},
@@ -25855,6 +25879,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Synthesis.uplugin",
 			"Type": "UFS"
 		},
@@ -25873,6 +25901,110 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/gamepad.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/holographic_controller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/hpmotioncontroller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/indexhmd.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/knuckles.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/oculus_touch.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/rift.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/steamvr_manifest.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_controller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_cosmos_controller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_pro.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_camera.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_chest.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_handed.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_keyboard.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_left_elbow.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_left_foot.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_left_knee.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_left_shoulder.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_right_elbow.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_right_foot.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_right_knee.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_right_shoulder.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_waist.json",
+			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(ProjectDir)/Lyttleton_Tunnel.uproject",

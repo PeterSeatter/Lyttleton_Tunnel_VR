@@ -220,24 +220,12 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/VREditor_Left_TriggerAxis axis",
+			"name": "/actions/main/in/Horizontal axis",
 			"type": "vector1"
 		},
 		{
-			"name": "/actions/main/in/VREditor_Left_TrackpadPosition_X,VREditor_Left_TrackpadPosition_Y X Y_axis2d",
-			"type": "vector2"
-		},
-		{
-			"name": "/actions/main/in/VREditor_Left_WorldMovement axis",
+			"name": "/actions/main/in/Vertical axis",
 			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/VREditor_Right_TriggerAxis axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/VREditor_Right_TrackpadPosition_X,VREditor_Right_TrackpadPosition_Y X Y_axis2d",
-			"type": "vector2"
 		}
 	],
 	"action_sets": [
@@ -498,11 +486,8 @@
 			"/actions/main/in/VREditor_Right_ConfirmRadialSelection": "VREditor_Right_ConfirmRadialSelection",
 			"/actions/main/in/VREditor_Right_Touch": "VREditor_Right_Touch",
 			"/actions/main/in/VREditor_Right_Modifier2": "VREditor_Right_Modifier2",
-			"/actions/main/in/VREditor_Left_TriggerAxis axis": "VREditor_Left_TriggerAxis",
-			"/actions/main/in/VREditor_Left_TrackpadPosition_X,VREditor_Left_TrackpadPosition_Y X Y_axis2d": "VREditor_Left_TrackpadPosition",
-			"/actions/main/in/VREditor_Left_WorldMovement axis": "VREditor_Left_WorldMovement",
-			"/actions/main/in/VREditor_Right_TriggerAxis axis": "VREditor_Right_TriggerAxis",
-			"/actions/main/in/VREditor_Right_TrackpadPosition_X,VREditor_Right_TrackpadPosition_Y X Y_axis2d": "VREditor_Right_TrackpadPosition",
+			"/actions/main/in/Horizontal axis": "Horizontal",
+			"/actions/main/in/Vertical axis": "Vertical",
 			"/actions/main": "Main Game Actions"
 		}
 	]
