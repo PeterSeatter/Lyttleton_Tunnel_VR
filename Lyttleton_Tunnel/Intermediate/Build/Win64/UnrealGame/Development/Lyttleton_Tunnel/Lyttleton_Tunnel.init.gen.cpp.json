@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\intermediate\\build\\win64\\unrealgame\\inc\\lyttleton_tunnel\\lyttleton_tunnel.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\intermediate\\build\\win64\\lyttleton_tunnel\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\intermediate\\build\\win64\\unrealgame\\development\\lyttleton_tunnel\\definitions.lyttleton_tunnel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

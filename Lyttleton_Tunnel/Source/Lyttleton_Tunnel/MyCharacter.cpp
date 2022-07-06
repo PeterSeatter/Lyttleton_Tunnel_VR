@@ -9,7 +9,10 @@ AMyCharacter::AMyCharacter()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	AutoPossesPlayer = EAutoReveiveInput::Player0
+	AutoPossessPlayer = EAutoReceiveInput::Player0;
+
+	//Sets the dependence of the speed
+	BaseSpeed = 10.0f
 }
 
 // Called when the game starts or when spawned
@@ -31,23 +34,29 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
-	InputComponent->BindAxis("Horizontal", this, &AMyCharacter::HoriztonalMove);
-	InputComonent->BindAxis("Vertical", this, &AMyCharacter::VerticalMove);	
+	//VR Input
+	InputComponent->BindAxis("HorizontalVR", this, &AMyCharacter::MoveFoward);
+	InputComponent->BindAxis("VerticalVR", this, &AMyCharacter::MoveRight);
+
+	//Keyboard Input
+	InputComponent->BindAxis("HorizontalKeyboard", this, &AMyCharacter::MoveFoward);
+	InputComponent->BindAxis("VerticalKeyboard", this, &AMyCharacter::MoveRight);
 }
 
-void AMyCharacter::HoriztonalMove(float value)
+void AMyCharacter::MoveForward(float AxisValue)
 {
-	if (value)
+	if (AxisValue)
 	{
-		AddMovementInput(GetActorRightVector(), value);
+		AddMovementInput(GetActorForwardVector(), AxisValue);
+		UE_LOG(LogTemp, Warning, TEXT("Horizontal Input"));
 	}	
 }
 
-void AMyCharacter::VerticalMovement(float value)
+void AMyCharacter::MoveRight(float AxisValue)
 {
-	if (value)
+	if (AxisValue)
 	{
-		AddMovementInput(GetActorForwardVector(), value);
-	}
-	
+		AddMovementInput(GetActorRightVector(), AxisValue);
+		UE_LOG(LogTemp, Warning, TEXT("Vertical Input"));
+	}	
 }

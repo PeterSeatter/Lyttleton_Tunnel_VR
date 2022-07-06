@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\source\\lyttleton_tunnel\\lyttleton_tunnelgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\intermediate\\build\\win64\\lyttleton_tunnel\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\intermediate\\build\\win64\\unrealgame\\development\\lyttleton_tunnel\\definitions.lyttleton_tunnel.h",
+            "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\source\\lyttleton_tunnel\\lyttleton_tunnelgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "f:\\programming\\lyttleton_tunnel_vr\\lyttleton_tunnel\\intermediate\\build\\win64\\unrealgame\\inc\\lyttleton_tunnel\\lyttleton_tunnelgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

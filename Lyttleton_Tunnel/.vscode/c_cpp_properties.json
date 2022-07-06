@@ -12,7 +12,14 @@
             "intelliSenseMode": "msvc-x64",
             "compileCommands": "F:\\Programming\\Lyttleton_Tunnel_VR\\Lyttleton_Tunnel\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
-            "cppStandard": "c++17"
+            "cppStandard": "c++17",
+            "includePath": [
+                "${default}",
+                "C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes",
+                "C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Core/Public",
+                "C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/CoreUObject/Public",
+                "C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/InputCore/Classes"
+            ]
         }
     ],
     "version": 4

@@ -28,6 +28,10 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
-	void HoriztonalMove(float value);
-	void VerticalMove(float value);
+	void MoveForward(float AxisValue);
+	void MoveRight(float AxisValue);
+
+protected:
+	//Speed for the character
+	float BaseSpeed;
 };
